@@ -1,0 +1,36 @@
+import pathlib
+from setuptools import find_packages, setup
+
+HERE = pathlib.Path(__file__).parent
+
+VERSION = '2.1.11'
+PACKAGE_NAME = 'lanusstats'
+AUTHOR = 'Federico Rábanos'
+AUTHOR_EMAIL = 'lanusstats@gmail.com'
+URL = 'https://github.com/federicorabanos/LanusStats'
+
+LICENSE = 'MIT'
+DESCRIPTION = 'Python library for scraping football data and visualize it / Libreria de Python para scrapear data de fútbol y visualizarla'
+LONG_DESC_TYPE = "text/markdown"
+
+INSTALL_REQUIRES = [
+    'pandas', 'mplsoccer', 'requests', 'matplotlib', 'numpy', 'bs4',
+    'Pillow', 'faker', 'nodriver', 'pydoll-python', 'setuptools',
+    'undetected-chromedriver', 'ipython',
+]
+
+setup(
+    name=PACKAGE_NAME,
+    version=VERSION,
+    description=DESCRIPTION,
+    long_description_content_type=LONG_DESC_TYPE,
+    author=AUTHOR,
+    author_email=AUTHOR_EMAIL,
+    url=URL,
+    python_requires='>=3.8, <3.14',
+    install_requires=INSTALL_REQUIRES,
+    license=LICENSE,
+    packages=find_packages(),
+    include_package_data=True,
+    package_data={'LanusStats': ['fonts/*.ttf']}
+)

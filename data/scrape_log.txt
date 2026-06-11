@@ -1,0 +1,542 @@
+[2026-06-10T21:30:19+00:00] ===== scrape_squads.py START =====
+[2026-06-10T21:30:19+00:00] club-map inline: 1200 jugadores con club
+[2026-06-10T21:30:20+00:00] equipos encontrados: 48
+[2026-06-10T21:30:20+00:00]   [ 1/48] ALG Argelia                26 jug · club match 24/26 · DT Davide Morandi
+[2026-06-10T21:30:21+00:00]   [ 2/48] ARG Argentina              26 jug · club match 26/26 · DT Walter Samuel
+[2026-06-10T21:30:22+00:00]   [ 3/48] AUS Australia              26 jug · club match 13/26 · DT Paul Okon
+[2026-06-10T21:30:22+00:00]   [ 4/48] AUT Austria                26 jug · club match 22/26 · DT Onur Cinel
+[2026-06-10T21:30:23+00:00]   [ 5/48] BEL Bélgica                26 jug · club match 26/26 · DT Claude Fichaux
+[2026-06-10T21:30:24+00:00]   [ 6/48] BIH Bosnia y Herzegovina   26 jug · club match 9/26 · DT Sasa Papac
+[2026-06-10T21:30:24+00:00]   [ 7/48] BRA Brasil                 26 jug · club match 24/26 · DT Juan
+[2026-06-10T21:30:25+00:00]   [ 8/48] CAN Canadá                 26 jug · club match 22/26 · DT Paul Stalteri
+[2026-06-10T21:30:26+00:00]   [ 9/48] CIV Costa de Marfil        26 jug · club match 14/26 · DT Alain Gouamene
+[2026-06-10T21:30:26+00:00]   [10/48] COD RD Congo               26 jug · club match 6/26 · DT Pamphile Mihayo
+[2026-06-10T21:30:27+00:00]   [11/48] COL Colombia               26 jug · club match 11/26 · DT Luis Perea
+[2026-06-10T21:30:28+00:00]   [12/48] CPV Islas de Cabo Verde    26 jug · club match 20/26 · DT Filipe Neto
+[2026-06-10T21:30:28+00:00]   [13/48] CRO Croacia                26 jug · club match 24/26 · DT Drazen Ladić
+[2026-06-10T21:30:29+00:00]   [14/48] CUW Curazao                26 jug · club match 22/26 · DT Dean Gorre
+[2026-06-10T21:30:30+00:00]   [15/48] CZE Chequia                26 jug · club match 14/26 · DT Jan Suchopárek
+[2026-06-10T21:30:31+00:00]   [16/48] ECU Ecuador                26 jug · club match 13/26 · DT Nicolas Chiesa
+[2026-06-10T21:30:32+00:00]   [17/48] EGY Egipto                 26 jug · club match 11/26 · DT Tarek Soliman
+[2026-06-10T21:30:33+00:00]   [18/48] ENG Inglaterra             26 jug · club match 15/26 · DT Justin Cochrane
+[2026-06-10T21:30:33+00:00]   [19/48] ESP España                 26 jug · club match 26/26 · DT Juanjo Gonzalez
+[2026-06-10T21:30:34+00:00]   [20/48] FRA Francia                26 jug · club match 18/26 · DT Guy Stéphan
+[2026-06-10T21:30:35+00:00]   [21/48] GER Alemania               26 jug · club match 22/26 · DT Albertus Schreuder
+[2026-06-10T21:30:35+00:00]   [22/48] GHA Ghana                  26 jug · club match 11/26 · DT John Paintsil
+[2026-06-10T21:30:36+00:00]   [23/48] HAI Haití                  26 jug · club match 10/26 · DT Sebastien Rabault
+[2026-06-10T21:30:37+00:00]   [24/48] IRN RI de Irán             26 jug · club match 12/26 · DT Rahman Rezaei
+[2026-06-10T21:30:37+00:00]   [25/48] IRQ Irak                   26 jug · club match 18/26 · DT Robert Stanton
+[2026-06-10T21:30:38+00:00]   [26/48] JOR Jordania               26 jug · club match 9/26 · DT Mustapha Khalfi
+[2026-06-10T21:30:39+00:00]   [27/48] JPN Japón                  26 jug · club match 15/26 · DT Hiroshi Nanami
+[2026-06-10T21:30:40+00:00]   [28/48] KOR República de Corea     26 jug · club match 0/26 · DT Kim Jin-Kyu
+[2026-06-10T21:30:40+00:00]   [29/48] KSA Arabia Saudí           26 jug · club match 3/26 · DT Makis Angelinas
+[2026-06-10T21:30:41+00:00]   [30/48] MAR Marruecos              26 jug · club match 24/26 · DT Youssouf Hadji
+[2026-06-10T21:30:42+00:00]   [31/48] MEX México                 26 jug · club match 21/26 · DT Rafael Marquez
+[2026-06-10T21:30:42+00:00]   [32/48] NED Países Bajos           26 jug · club match 18/26 · DT Wim Jonk
+[2026-06-10T21:30:43+00:00]   [33/48] NOR Noruega                26 jug · club match 11/26 · DT Kent Bergersen
+[2026-06-10T21:30:44+00:00]   [34/48] NZL Nueva Zelanda          26 jug · club match 23/26 · DT Simon Elliott
+[2026-06-10T21:30:45+00:00]   [35/48] PAN Panamá                 26 jug · club match 16/26 · DT Javier Sanchez
+[2026-06-10T21:30:45+00:00]   [36/48] PAR Paraguay               26 jug · club match 10/26 · DT Claudio Cristofanelli
+[2026-06-10T21:30:46+00:00]   [37/48] POR Portugal               26 jug · club match 16/26 · DT Jesus Seba
+[2026-06-10T21:30:47+00:00]   [38/48] QAT Catar                  26 jug · club match 13/26 · DT Pablo Sanz Iniesta
+[2026-06-10T21:30:48+00:00]   [39/48] RSA Sudáfrica              26 jug · club match 7/26 · DT Helman Mkhalele
+[2026-06-10T21:30:48+00:00]   [40/48] SCO Escocia                26 jug · club match 19/26 · DT Steven Naismith
+[2026-06-10T21:30:49+00:00]   [41/48] SEN Senegal                26 jug · club match 24/26 · DT Teddy Pellerin
+[2026-06-10T21:30:50+00:00]   [42/48] SUI Suiza                  26 jug · club match 15/26 · DT Davide Calla
+[2026-06-10T21:30:50+00:00]   [43/48] SWE Suecia                 26 jug · club match 11/26 · DT Sebastian Larsson
+[2026-06-10T21:30:51+00:00]   [44/48] TUN Túnez                  26 jug · club match 7/26 · DT Michael Hefele
+[2026-06-10T21:30:52+00:00]   [45/48] TUR Turquía                26 jug · club match 17/26 · DT Hakan Balta
+[2026-06-10T21:30:53+00:00]   [46/48] URU Uruguay                26 jug · club match 26/26 · DT Pablo Quiroga
+[2026-06-10T21:30:53+00:00]   [47/48] USA EE. UU.                26 jug · club match 26/26 · DT Jesus Perez
+[2026-06-10T21:30:54+00:00]   [48/48] UZB Uzbekistán             26 jug · club match 22/26 · DT Francesco Troise
+[2026-06-10T21:30:55+00:00] escrito data/squads.json · 48 equipos OK · 0 fallidos · 35.1s
+[2026-06-10T21:30:55+00:00] ===== scrape_squads.py END =====
+
+[2026-06-10T21:32:51+00:00] ===== scrape_squads.py START =====
+[2026-06-10T21:32:51+00:00] club-map inline: 1200 jugadores con club
+[2026-06-10T21:32:52+00:00] equipos encontrados: 48
+[2026-06-10T21:32:52+00:00]   [ 1/48] ALG Argelia                26 jug · club match 24/26 · DT Vladimir Petkovic
+[2026-06-10T21:32:52+00:00]   [ 2/48] ARG Argentina              26 jug · club match 26/26 · DT Lionel Scaloni
+[2026-06-10T21:32:53+00:00]   [ 3/48] AUS Australia              26 jug · club match 13/26 · DT Tony Popović
+[2026-06-10T21:32:54+00:00]   [ 4/48] AUT Austria                26 jug · club match 22/26 · DT Ralf Rangnick
+[2026-06-10T21:32:54+00:00]   [ 5/48] BEL Bélgica                26 jug · club match 26/26 · DT Rudi Garcia
+[2026-06-10T21:32:55+00:00]   [ 6/48] BIH Bosnia y Herzegovina   26 jug · club match 9/26 · DT Sergej Barbarez
+[2026-06-10T21:32:56+00:00]   [ 7/48] BRA Brasil                 26 jug · club match 24/26 · DT Carlo Ancelotti
+[2026-06-10T21:32:57+00:00]   [ 8/48] CAN Canadá                 26 jug · club match 22/26 · DT Jesse Alan Marsch
+[2026-06-10T21:32:57+00:00]   [ 9/48] CIV Costa de Marfil        26 jug · club match 14/26 · DT Emerse Fae
+[2026-06-10T21:32:58+00:00]   [10/48] COD RD Congo               26 jug · club match 6/26 · DT Sébastien Desabre
+[2026-06-10T21:32:59+00:00]   [11/48] COL Colombia               26 jug · club match 11/26 · DT Néstor Gabriel Lorenzo
+[2026-06-10T21:32:59+00:00]   [12/48] CPV Islas de Cabo Verde    26 jug · club match 20/26 · DT Pedro Leitão Brito
+[2026-06-10T21:33:00+00:00]   [13/48] CRO Croacia                26 jug · club match 24/26 · DT Zlatko Dalić
+[2026-06-10T21:33:01+00:00]   [14/48] CUW Curazao                26 jug · club match 22/26 · DT Dick Advocaat
+[2026-06-10T21:33:02+00:00]   [15/48] CZE Chequia                26 jug · club match 14/26 · DT Miroslav Koubek
+[2026-06-10T21:33:02+00:00]   [16/48] ECU Ecuador                26 jug · club match 13/26 · DT Sebastián Andrés Beccacece
+[2026-06-10T21:33:03+00:00]   [17/48] EGY Egipto                 26 jug · club match 11/26 · DT Hossam Hassan Hussein
+[2026-06-10T21:33:04+00:00]   [18/48] ENG Inglaterra             26 jug · club match 15/26 · DT Thomas Tuchel
+[2026-06-10T21:33:04+00:00]   [19/48] ESP España                 26 jug · club match 26/26 · DT Luis de la Fuente Castillo
+[2026-06-10T21:33:05+00:00]   [20/48] FRA Francia                26 jug · club match 18/26 · DT Didier Deschamps
+[2026-06-10T21:33:06+00:00]   [21/48] GER Alemania               26 jug · club match 22/26 · DT Julian Nagelsmann
+[2026-06-10T21:33:07+00:00]   [22/48] GHA Ghana                  26 jug · club match 11/26 · DT Carlos Queiroz
+[2026-06-10T21:33:07+00:00]   [23/48] HAI Haití                  26 jug · club match 10/26 · DT Sebastien Migne
+[2026-06-10T21:33:08+00:00]   [24/48] IRN RI de Irán             26 jug · club match 12/26 · DT Amir Ghalenoei
+[2026-06-10T21:33:09+00:00]   [25/48] IRQ Irak                   26 jug · club match 18/26 · DT Graham James Arnold
+[2026-06-10T21:33:09+00:00]   [26/48] JOR Jordania               26 jug · club match 9/26 · DT Jamal Sellami
+[2026-06-10T21:33:10+00:00]   [27/48] JPN Japón                  26 jug · club match 15/26 · DT Hajime Moriyasu
+[2026-06-10T21:33:11+00:00]   [28/48] KOR República de Corea     26 jug · club match 0/26 · DT Myung-Bo Hong
+[2026-06-10T21:33:11+00:00]   [29/48] KSA Arabia Saudí           26 jug · club match 3/26 · DT Georgios Donis
+[2026-06-10T21:33:12+00:00]   [30/48] MAR Marruecos              26 jug · club match 24/26 · DT Mohamed Ouahbi
+[2026-06-10T21:33:13+00:00]   [31/48] MEX México                 26 jug · club match 21/26 · DT Javier Aguirre Onaindía
+[2026-06-10T21:33:13+00:00]   [32/48] NED Países Bajos           26 jug · club match 18/26 · DT Ronald Koeman
+[2026-06-10T21:33:14+00:00]   [33/48] NOR Noruega                26 jug · club match 11/26 · DT Ståle Solbakken
+[2026-06-10T21:33:15+00:00]   [34/48] NZL Nueva Zelanda          26 jug · club match 23/26 · DT Darren Bazeley
+[2026-06-10T21:33:16+00:00]   [35/48] PAN Panamá                 26 jug · club match 16/26 · DT Thomas Christiansen Tarín
+[2026-06-10T21:33:16+00:00]   [36/48] PAR Paraguay               26 jug · club match 10/26 · DT Gustavo Alfaro
+[2026-06-10T21:33:17+00:00]   [37/48] POR Portugal               26 jug · club match 16/26 · DT Roberto Martínez Montoliú
+[2026-06-10T21:33:18+00:00]   [38/48] QAT Catar                  26 jug · club match 13/26 · DT Julen Lopetegui Argote
+[2026-06-10T21:33:18+00:00]   [39/48] RSA Sudáfrica              26 jug · club match 7/26 · DT Hugo Henri Broos
+[2026-06-10T21:33:19+00:00]   [40/48] SCO Escocia                26 jug · club match 19/26 · DT Stephen Clark
+[2026-06-10T21:33:20+00:00]   [41/48] SEN Senegal                26 jug · club match 24/26 · DT Pape Thiaw
+[2026-06-10T21:33:20+00:00]   [42/48] SUI Suiza                  26 jug · club match 15/26 · DT Murat Yakin
+[2026-06-10T21:33:21+00:00]   [43/48] SWE Suecia                 26 jug · club match 11/26 · DT Graham Potter
+[2026-06-10T21:33:22+00:00]   [44/48] TUN Túnez                  26 jug · club match 7/26 · DT Sabri Lamouchi
+[2026-06-10T21:33:22+00:00]   [45/48] TUR Turquía                26 jug · club match 17/26 · DT Vincenzo Montella
+[2026-06-10T21:33:23+00:00]   [46/48] URU Uruguay                26 jug · club match 26/26 · DT Marcelo Bielsa
+[2026-06-10T21:33:24+00:00]   [47/48] USA EE. UU.                26 jug · club match 26/26 · DT Mauricio Pochettino
+[2026-06-10T21:33:25+00:00]   [48/48] UZB Uzbekistán             26 jug · club match 22/26 · DT Fabio Cannavaro
+[2026-06-10T21:33:25+00:00] escrito data/squads.json · 48 equipos OK · 0 fallidos · 34.1s
+[2026-06-10T21:33:25+00:00] ===== scrape_squads.py END =====
+
+[2026-06-10T21:35:14+00:00] ===== scrape_squads.py START =====
+[2026-06-10T21:35:14+00:00] club-map inline: 1219 jugadores en 48 equipos
+[2026-06-10T21:35:14+00:00] equipos encontrados: 48
+[2026-06-10T21:35:14+00:00]   [ 1/48] ALG Argelia                26 jug · club match 21/26 · DT Vladimir Petkovic
+[2026-06-10T21:35:15+00:00]   [ 2/48] ARG Argentina              26 jug · club match 23/26 · DT Lionel Scaloni
+[2026-06-10T21:35:16+00:00]   [ 3/48] AUS Australia              26 jug · club match 12/26 · DT Tony Popović
+[2026-06-10T21:35:17+00:00]   [ 4/48] AUT Austria                26 jug · club match 21/26 · DT Ralf Rangnick
+[2026-06-10T21:35:17+00:00]   [ 5/48] BEL Bélgica                26 jug · club match 26/26 · DT Rudi Garcia
+[2026-06-10T21:35:18+00:00]   [ 6/48] BIH Bosnia y Herzegovina   26 jug · club match 9/26 · DT Sergej Barbarez
+[2026-06-10T21:35:19+00:00]   [ 7/48] BRA Brasil                 26 jug · club match 24/26 · DT Carlo Ancelotti
+[2026-06-10T21:35:19+00:00]   [ 8/48] CAN Canadá                 26 jug · club match 22/26 · DT Jesse Alan Marsch
+[2026-06-10T21:35:20+00:00]   [ 9/48] CIV Costa de Marfil        26 jug · club match 13/26 · DT Emerse Fae
+[2026-06-10T21:35:21+00:00]   [10/48] COD RD Congo               26 jug · club match 6/26 · DT Sébastien Desabre
+[2026-06-10T21:35:21+00:00]   [11/48] COL Colombia               26 jug · club match 11/26 · DT Néstor Gabriel Lorenzo
+[2026-06-10T21:35:22+00:00]   [12/48] CPV Islas de Cabo Verde    26 jug · club match 20/26 · DT Pedro Leitão Brito
+[2026-06-10T21:35:23+00:00]   [13/48] CRO Croacia                26 jug · club match 23/26 · DT Zlatko Dalić
+[2026-06-10T21:35:23+00:00]   [14/48] CUW Curazao                26 jug · club match 21/26 · DT Dick Advocaat
+[2026-06-10T21:35:24+00:00]   [15/48] CZE Chequia                26 jug · club match 14/26 · DT Miroslav Koubek
+[2026-06-10T21:35:25+00:00]   [16/48] ECU Ecuador                26 jug · club match 13/26 · DT Sebastián Andrés Beccacece
+[2026-06-10T21:35:26+00:00]   [17/48] EGY Egipto                 26 jug · club match 10/26 · DT Hossam Hassan Hussein
+[2026-06-10T21:35:26+00:00]   [18/48] ENG Inglaterra             26 jug · club match 15/26 · DT Thomas Tuchel
+[2026-06-10T21:35:27+00:00]   [19/48] ESP España                 26 jug · club match 25/26 · DT Luis de la Fuente Castillo
+[2026-06-10T21:35:28+00:00]   [20/48] FRA Francia                26 jug · club match 18/26 · DT Didier Deschamps
+[2026-06-10T21:35:28+00:00]   [21/48] GER Alemania               26 jug · club match 22/26 · DT Julian Nagelsmann
+[2026-06-10T21:35:29+00:00]   [22/48] GHA Ghana                  26 jug · club match 11/26 · DT Carlos Queiroz
+[2026-06-10T21:35:30+00:00]   [23/48] HAI Haití                  26 jug · club match 10/26 · DT Sebastien Migne
+[2026-06-10T21:35:30+00:00]   [24/48] IRN RI de Irán             26 jug · club match 10/26 · DT Amir Ghalenoei
+[2026-06-10T21:35:31+00:00]   [25/48] IRQ Irak                   26 jug · club match 18/26 · DT Graham James Arnold
+[2026-06-10T21:35:32+00:00]   [26/48] JOR Jordania               26 jug · club match 9/26 · DT Jamal Sellami
+[2026-06-10T21:35:33+00:00]   [27/48] JPN Japón                  26 jug · club match 14/26 · DT Hajime Moriyasu
+[2026-06-10T21:35:33+00:00]   [28/48] KOR República de Corea     26 jug · club match 0/26 · DT Myung-Bo Hong
+[2026-06-10T21:35:34+00:00]   [29/48] KSA Arabia Saudí           26 jug · club match 1/26 · DT Georgios Donis
+[2026-06-10T21:35:35+00:00]   [30/48] MAR Marruecos              26 jug · club match 24/26 · DT Mohamed Ouahbi
+[2026-06-10T21:35:35+00:00]   [31/48] MEX México                 26 jug · club match 21/26 · DT Javier Aguirre Onaindía
+[2026-06-10T21:35:36+00:00]   [32/48] NED Países Bajos           26 jug · club match 18/26 · DT Ronald Koeman
+[2026-06-10T21:35:37+00:00]   [33/48] NOR Noruega                26 jug · club match 8/26 · DT Ståle Solbakken
+[2026-06-10T21:35:38+00:00]   [34/48] NZL Nueva Zelanda          26 jug · club match 21/26 · DT Darren Bazeley
+[2026-06-10T21:35:38+00:00]   [35/48] PAN Panamá                 26 jug · club match 15/26 · DT Thomas Christiansen Tarín
+[2026-06-10T21:35:39+00:00]   [36/48] PAR Paraguay               26 jug · club match 10/26 · DT Gustavo Alfaro
+[2026-06-10T21:35:40+00:00]   [37/48] POR Portugal               26 jug · club match 16/26 · DT Roberto Martínez Montoliú
+[2026-06-10T21:35:40+00:00]   [38/48] QAT Catar                  26 jug · club match 13/26 · DT Julen Lopetegui Argote
+[2026-06-10T21:35:41+00:00]   [39/48] RSA Sudáfrica              26 jug · club match 7/26 · DT Hugo Henri Broos
+[2026-06-10T21:35:42+00:00]   [40/48] SCO Escocia                26 jug · club match 18/26 · DT Stephen Clark
+[2026-06-10T21:35:42+00:00]   [41/48] SEN Senegal                26 jug · club match 24/26 · DT Pape Thiaw
+[2026-06-10T21:35:43+00:00]   [42/48] SUI Suiza                  26 jug · club match 15/26 · DT Murat Yakin
+[2026-06-10T21:35:44+00:00]   [43/48] SWE Suecia                 26 jug · club match 11/26 · DT Graham Potter
+[2026-06-10T21:35:45+00:00]   [44/48] TUN Túnez                  26 jug · club match 7/26 · DT Sabri Lamouchi
+[2026-06-10T21:35:45+00:00]   [45/48] TUR Turquía                26 jug · club match 17/26 · DT Vincenzo Montella
+[2026-06-10T21:35:46+00:00]   [46/48] URU Uruguay                26 jug · club match 25/26 · DT Marcelo Bielsa
+[2026-06-10T21:35:47+00:00]   [47/48] USA EE. UU.                26 jug · club match 24/26 · DT Mauricio Pochettino
+[2026-06-10T21:35:47+00:00]   [48/48] UZB Uzbekistán             26 jug · club match 21/26 · DT Fabio Cannavaro
+[2026-06-10T21:35:48+00:00] escrito data/squads.json · 48 equipos OK · 0 fallidos · 34.1s
+[2026-06-10T21:35:48+00:00] ===== scrape_squads.py END =====
+
+[2026-06-10T21:41:46+00:00] ===== scrape_wc_stats.py START =====
+[2026-06-10T21:41:47+00:00] matches.json: 104 partidos · 104 nuevos · 0 actualizados
+[2026-06-10T21:41:47+00:00] player_stats_wc.json: 0 partidos jugados todavía (se llenará al arrancar el torneo)
+[2026-06-10T21:41:47+00:00] player_stats_season.json: 48 equipos · 1222 jugadores (seed desde index.html · fuente real futura: FBref)
+[2026-06-10T21:41:47+00:00] ===== scrape_wc_stats.py END · 0.8s =====
+
+[2026-06-10T21:42:29+00:00] ===== scrape_wc_stats.py START =====
+[2026-06-10T21:42:29+00:00] matches.json: 104 partidos · 0 nuevos · 0 actualizados
+[2026-06-10T21:42:29+00:00] player_stats_wc.json: 0 partidos jugados todavía (se llenará al arrancar el torneo)
+[2026-06-10T21:42:29+00:00] player_stats_season.json: 48 equipos · 1222 jugadores (seed desde index.html · fuente real futura: FBref)
+[2026-06-10T21:42:29+00:00] ===== scrape_wc_stats.py END · 0.5s =====
+
+[2026-06-10T21:51:38+00:00] ===== scrape_squads.py START =====
+[2026-06-10T21:51:38+00:00] club-map inline: 1219 jugadores en 48 equipos
+[2026-06-10T21:51:38+00:00] equipos encontrados: 48
+[2026-06-10T21:51:38+00:00]   [ 1/48] ALG Argelia                26 jug · club match 21/26 · DT Vladimir Petkovic
+[2026-06-10T21:51:39+00:00]   [ 2/48] ARG Argentina              26 jug · club match 23/26 · DT Lionel Scaloni
+[2026-06-10T21:51:40+00:00]   [ 3/48] AUS Australia              26 jug · club match 12/26 · DT Tony Popović
+[2026-06-10T21:51:41+00:00]   [ 4/48] AUT Austria                26 jug · club match 21/26 · DT Ralf Rangnick
+[2026-06-10T21:51:41+00:00]   [ 5/48] BEL Bélgica                26 jug · club match 26/26 · DT Rudi Garcia
+[2026-06-10T21:51:42+00:00]   [ 6/48] BIH Bosnia y Herzegovina   26 jug · club match 9/26 · DT Sergej Barbarez
+[2026-06-10T21:51:43+00:00]   [ 7/48] BRA Brasil                 26 jug · club match 24/26 · DT Carlo Ancelotti
+[2026-06-10T21:51:43+00:00]   [ 8/48] CAN Canadá                 26 jug · club match 22/26 · DT Jesse Alan Marsch
+[2026-06-10T21:51:44+00:00]   [ 9/48] CIV Costa de Marfil        26 jug · club match 13/26 · DT Emerse Fae
+[2026-06-10T21:51:45+00:00]   [10/48] COD RD Congo               26 jug · club match 6/26 · DT Sébastien Desabre
+[2026-06-10T21:51:45+00:00]   [11/48] COL Colombia               26 jug · club match 11/26 · DT Néstor Gabriel Lorenzo
+[2026-06-10T21:51:46+00:00]   [12/48] CPV Islas de Cabo Verde    26 jug · club match 20/26 · DT Pedro Leitão Brito
+[2026-06-10T21:51:47+00:00]   [13/48] CRO Croacia                26 jug · club match 23/26 · DT Zlatko Dalić
+[2026-06-10T21:51:47+00:00]   [14/48] CUW Curazao                26 jug · club match 21/26 · DT Dick Advocaat
+[2026-06-10T21:51:48+00:00]   [15/48] CZE Chequia                26 jug · club match 14/26 · DT Miroslav Koubek
+[2026-06-10T21:51:49+00:00]   [16/48] ECU Ecuador                26 jug · club match 13/26 · DT Sebastián Andrés Beccacece
+[2026-06-10T21:51:49+00:00]   [17/48] EGY Egipto                 26 jug · club match 10/26 · DT Hossam Hassan Hussein
+[2026-06-10T21:51:50+00:00]   [18/48] ENG Inglaterra             26 jug · club match 15/26 · DT Thomas Tuchel
+[2026-06-10T21:51:51+00:00]   [19/48] ESP España                 26 jug · club match 25/26 · DT Luis de la Fuente Castillo
+[2026-06-10T21:51:51+00:00]   [20/48] FRA Francia                26 jug · club match 18/26 · DT Didier Deschamps
+[2026-06-10T21:51:52+00:00]   [21/48] GER Alemania               26 jug · club match 22/26 · DT Julian Nagelsmann
+[2026-06-10T21:51:53+00:00]   [22/48] GHA Ghana                  26 jug · club match 11/26 · DT Carlos Queiroz
+[2026-06-10T21:51:53+00:00]   [23/48] HAI Haití                  26 jug · club match 10/26 · DT Sebastien Migne
+[2026-06-10T21:51:54+00:00]   [24/48] IRN RI de Irán             26 jug · club match 10/26 · DT Amir Ghalenoei
+[2026-06-10T21:51:55+00:00]   [25/48] IRQ Irak                   26 jug · club match 18/26 · DT Graham James Arnold
+[2026-06-10T21:51:56+00:00]   [26/48] JOR Jordania               26 jug · club match 9/26 · DT Jamal Sellami
+[2026-06-10T21:51:56+00:00]   [27/48] JPN Japón                  26 jug · club match 14/26 · DT Hajime Moriyasu
+[2026-06-10T21:51:57+00:00]   [28/48] KOR República de Corea     26 jug · club match 0/26 · DT Myung-Bo Hong
+[2026-06-10T21:51:58+00:00]   [29/48] KSA Arabia Saudí           26 jug · club match 1/26 · DT Georgios Donis
+[2026-06-10T21:51:58+00:00]   [30/48] MAR Marruecos              26 jug · club match 24/26 · DT Mohamed Ouahbi
+[2026-06-10T21:51:59+00:00]   [31/48] MEX México                 26 jug · club match 21/26 · DT Javier Aguirre Onaindía
+[2026-06-10T21:52:00+00:00]   [32/48] NED Países Bajos           26 jug · club match 18/26 · DT Ronald Koeman
+[2026-06-10T21:52:00+00:00]   [33/48] NOR Noruega                26 jug · club match 8/26 · DT Ståle Solbakken
+[2026-06-10T21:52:01+00:00]   [34/48] NZL Nueva Zelanda          26 jug · club match 21/26 · DT Darren Bazeley
+[2026-06-10T21:52:02+00:00]   [35/48] PAN Panamá                 26 jug · club match 15/26 · DT Thomas Christiansen Tarín
+[2026-06-10T21:52:03+00:00]   [36/48] PAR Paraguay               26 jug · club match 10/26 · DT Gustavo Alfaro
+[2026-06-10T21:52:03+00:00]   [37/48] POR Portugal               26 jug · club match 16/26 · DT Roberto Martínez Montoliú
+[2026-06-10T21:52:04+00:00]   [38/48] QAT Catar                  26 jug · club match 13/26 · DT Julen Lopetegui Argote
+[2026-06-10T21:52:05+00:00]   [39/48] RSA Sudáfrica              26 jug · club match 7/26 · DT Hugo Henri Broos
+[2026-06-10T21:52:05+00:00]   [40/48] SCO Escocia                26 jug · club match 18/26 · DT Stephen Clark
+[2026-06-10T21:52:06+00:00]   [41/48] SEN Senegal                26 jug · club match 24/26 · DT Pape Thiaw
+[2026-06-10T21:52:07+00:00]   [42/48] SUI Suiza                  26 jug · club match 15/26 · DT Murat Yakin
+[2026-06-10T21:52:08+00:00]   [43/48] SWE Suecia                 26 jug · club match 11/26 · DT Graham Potter
+[2026-06-10T21:52:08+00:00]   [44/48] TUN Túnez                  26 jug · club match 7/26 · DT Sabri Lamouchi
+[2026-06-10T21:52:09+00:00]   [45/48] TUR Turquía                26 jug · club match 17/26 · DT Vincenzo Montella
+[2026-06-10T21:52:10+00:00]   [46/48] URU Uruguay                26 jug · club match 25/26 · DT Marcelo Bielsa
+[2026-06-10T21:52:10+00:00]   [47/48] USA EE. UU.                26 jug · club match 24/26 · DT Mauricio Pochettino
+[2026-06-10T21:52:11+00:00]   [48/48] UZB Uzbekistán             26 jug · club match 21/26 · DT Fabio Cannavaro
+[2026-06-10T21:52:11+00:00] escrito data/squads.json · 48 equipos OK · 0 fallidos · 33.4s
+[2026-06-10T21:52:11+00:00] ===== scrape_squads.py END =====
+
+[2026-06-10T21:52:12+00:00] ===== scrape_wc_stats.py START =====
+[2026-06-10T21:52:12+00:00] matches.json: 104 partidos · 0 nuevos · 0 actualizados
+[2026-06-10T21:52:12+00:00] player_stats_wc.json: 0 partidos jugados todavía (se llenará al arrancar el torneo)
+[2026-06-10T21:52:12+00:00] player_stats_season.json: 48 equipos · 1222 jugadores (seed desde index.html · fuente real futura: FBref)
+[2026-06-10T21:52:12+00:00] ===== scrape_wc_stats.py END · 0.5s =====
+
+[2026-06-10T22:19:00+00:00] ===== enrich_clubs_sofascore.py START =====
+[2026-06-10T22:19:00+00:00] equipos SofaScore WC2026: 48
+[2026-06-10T22:19:00+00:00]   CZE  Chequia                club 26/26 (SofaScore Czechia)
+[2026-06-10T22:19:00+00:00]   KOR  República de Corea     club 1/26 (SofaScore South Korea)
+[2026-06-10T22:19:01+00:00]   MEX  México                 club 26/26 (SofaScore Mexico)
+[2026-06-10T22:19:01+00:00]   RSA  Sudáfrica              club 23/26 (SofaScore South Africa)
+[2026-06-10T22:19:02+00:00]   BIH  Bosnia y Herzegovina   club 26/26 (SofaScore Bosnia & Herzegovina)
+[2026-06-10T22:19:03+00:00]   CAN  Canadá                 club 25/26 (SofaScore Canada)
+[2026-06-10T22:19:03+00:00]   QAT  Catar                  club 14/26 (SofaScore Qatar)
+[2026-06-10T22:19:04+00:00]   SUI  Suiza                  club 25/26 (SofaScore Switzerland)
+[2026-06-10T22:19:04+00:00]   BRA  Brasil                 club 24/26 (SofaScore Brazil)
+[2026-06-10T22:19:05+00:00]   HAI  Haití                  club 25/26 (SofaScore Haiti)
+[2026-06-10T22:19:06+00:00]   MAR  Marruecos              club 23/26 (SofaScore Morocco)
+[2026-06-10T22:19:06+00:00]   SCO  Escocia                club 25/26 (SofaScore Scotland)
+[2026-06-10T22:19:07+00:00]   AUS  Australia              club 25/26 (SofaScore Australia)
+[2026-06-10T22:19:08+00:00]   PAR  Paraguay               club 24/26 (SofaScore Paraguay)
+[2026-06-10T22:19:08+00:00]   TUR  Turquía                club 17/26 (SofaScore Türkiye)
+[2026-06-10T22:19:09+00:00]   USA  EE. UU.                club 22/26 (SofaScore USA)
+[2026-06-10T22:19:09+00:00]   CIV  Costa de Marfil        club 26/26 (SofaScore Côte d'Ivoire)
+[2026-06-10T22:19:10+00:00]   CUW  Curazao                club 24/26 (SofaScore Curaçao)
+[2026-06-10T22:19:10+00:00]   ECU  Ecuador                club 26/26 (SofaScore Ecuador)
+[2026-06-10T22:19:11+00:00]   GER  Alemania               club 23/26 (SofaScore Germany)
+[2026-06-10T22:19:11+00:00]   JPN  Japón                  club 25/26 (SofaScore Japan)
+[2026-06-10T22:19:12+00:00]   NED  Países Bajos           club 26/26 (SofaScore Netherlands)
+[2026-06-10T22:19:13+00:00]   SWE  Suecia                 club 26/26 (SofaScore Sweden)
+[2026-06-10T22:19:13+00:00]   TUN  Túnez                  club 22/26 (SofaScore Tunisia)
+[2026-06-10T22:19:14+00:00]   BEL  Bélgica                club 26/26 (SofaScore Belgium)
+[2026-06-10T22:19:14+00:00]   EGY  Egipto                 club 17/26 (SofaScore Egypt)
+[2026-06-10T22:19:15+00:00]   IRN  RI de Irán             club 17/26 (SofaScore Iran)
+[2026-06-10T22:19:15+00:00]   NZL  Nueva Zelanda          club 25/26 (SofaScore New Zealand)
+[2026-06-10T22:19:16+00:00]   CPV  Islas de Cabo Verde    club 23/26 (SofaScore Cabo Verde)
+[2026-06-10T22:19:17+00:00]   ESP  España                 club 24/26 (SofaScore Spain)
+[2026-06-10T22:19:17+00:00]   KSA  Arabia Saudí           club 8/26 (SofaScore Saudi Arabia)
+[2026-06-10T22:19:18+00:00]   URU  Uruguay                club 25/26 (SofaScore Uruguay)
+[2026-06-10T22:19:18+00:00]   FRA  Francia                club 25/26 (SofaScore France)
+[2026-06-10T22:19:19+00:00]   IRQ  Irak                   club 20/26 (SofaScore Iraq)
+[2026-06-10T22:19:20+00:00]   NOR  Noruega                club 19/26 (SofaScore Norway)
+[2026-06-10T22:19:20+00:00]   SEN  Senegal                club 25/26 (SofaScore Senegal)
+[2026-06-10T22:19:21+00:00]   ALG  Argelia                club 25/26 (SofaScore Algeria)
+[2026-06-10T22:19:21+00:00]   ARG  Argentina              club 24/26 (SofaScore Argentina)
+[2026-06-10T22:19:22+00:00]   AUT  Austria                club 23/26 (SofaScore Austria)
+[2026-06-10T22:19:22+00:00]   JOR  Jordania               club 10/26 (SofaScore Jordan)
+[2026-06-10T22:19:23+00:00]   COD  RD Congo               club 23/26 (SofaScore DR Congo)
+[2026-06-10T22:19:24+00:00]   COL  Colombia               club 26/26 (SofaScore Colombia)
+[2026-06-10T22:19:24+00:00]   POR  Portugal               club 26/26 (SofaScore Portugal)
+[2026-06-10T22:19:25+00:00]   UZB  Uzbekistán             club 19/26 (SofaScore Uzbekistan)
+[2026-06-10T22:19:25+00:00]   CRO  Croacia                club 26/26 (SofaScore Croatia)
+[2026-06-10T22:19:26+00:00]   ENG  Inglaterra             club 25/26 (SofaScore England)
+[2026-06-10T22:19:26+00:00]   GHA  Ghana                  club 24/26 (SofaScore Ghana)
+[2026-06-10T22:19:27+00:00]   PAN  Panamá                 club 25/26 (SofaScore Panama)
+[2026-06-10T22:19:27+00:00] OK: 48 equipos · 0 fallidos · 1079 clubes desde SofaScore
+[2026-06-10T22:19:27+00:00] cobertura final de club: 1108/1248 (88%)
+[2026-06-10T22:19:27+00:00] ===== enrich_clubs_sofascore.py END =====
+
+[2026-06-10T22:19:28+00:00] ===== enrich_clubs_sofascore.py START =====
+[2026-06-10T22:19:28+00:00] equipos SofaScore WC2026: 48
+[2026-06-10T22:19:28+00:00]   CZE  Chequia                club 26/26 (SofaScore Czechia)
+[2026-06-10T22:19:28+00:00]   KOR  República de Corea     club 1/26 (SofaScore South Korea)
+[2026-06-10T22:19:29+00:00]   MEX  México                 club 26/26 (SofaScore Mexico)
+[2026-06-10T22:19:29+00:00]   RSA  Sudáfrica              club 23/26 (SofaScore South Africa)
+[2026-06-10T22:19:30+00:00]   BIH  Bosnia y Herzegovina   club 26/26 (SofaScore Bosnia & Herzegovina)
+[2026-06-10T22:19:30+00:00]   CAN  Canadá                 club 25/26 (SofaScore Canada)
+[2026-06-10T22:19:31+00:00]   QAT  Catar                  club 14/26 (SofaScore Qatar)
+[2026-06-10T22:19:32+00:00]   SUI  Suiza                  club 25/26 (SofaScore Switzerland)
+[2026-06-10T22:19:32+00:00]   BRA  Brasil                 club 24/26 (SofaScore Brazil)
+[2026-06-10T22:19:33+00:00]   HAI  Haití                  club 25/26 (SofaScore Haiti)
+[2026-06-10T22:19:33+00:00]   MAR  Marruecos              club 23/26 (SofaScore Morocco)
+[2026-06-10T22:19:34+00:00]   SCO  Escocia                club 25/26 (SofaScore Scotland)
+[2026-06-10T22:19:34+00:00]   AUS  Australia              club 25/26 (SofaScore Australia)
+[2026-06-10T22:19:35+00:00]   PAR  Paraguay               club 24/26 (SofaScore Paraguay)
+[2026-06-10T22:19:35+00:00]   TUR  Turquía                club 17/26 (SofaScore Türkiye)
+[2026-06-10T22:19:36+00:00]   USA  EE. UU.                club 22/26 (SofaScore USA)
+[2026-06-10T22:19:37+00:00]   CIV  Costa de Marfil        club 26/26 (SofaScore Côte d'Ivoire)
+[2026-06-10T22:19:37+00:00]   CUW  Curazao                club 24/26 (SofaScore Curaçao)
+[2026-06-10T22:19:38+00:00]   ECU  Ecuador                club 26/26 (SofaScore Ecuador)
+[2026-06-10T22:19:38+00:00]   GER  Alemania               club 23/26 (SofaScore Germany)
+[2026-06-10T22:19:39+00:00]   JPN  Japón                  club 25/26 (SofaScore Japan)
+[2026-06-10T22:19:39+00:00]   NED  Países Bajos           club 26/26 (SofaScore Netherlands)
+[2026-06-10T22:19:40+00:00]   SWE  Suecia                 club 26/26 (SofaScore Sweden)
+[2026-06-10T22:19:41+00:00]   TUN  Túnez                  club 22/26 (SofaScore Tunisia)
+[2026-06-10T22:19:41+00:00]   BEL  Bélgica                club 26/26 (SofaScore Belgium)
+[2026-06-10T22:19:42+00:00]   EGY  Egipto                 club 17/26 (SofaScore Egypt)
+[2026-06-10T22:19:42+00:00]   IRN  RI de Irán             club 17/26 (SofaScore Iran)
+[2026-06-10T22:19:43+00:00]   NZL  Nueva Zelanda          club 25/26 (SofaScore New Zealand)
+[2026-06-10T22:19:43+00:00]   CPV  Islas de Cabo Verde    club 23/26 (SofaScore Cabo Verde)
+[2026-06-10T22:19:44+00:00]   ESP  España                 club 24/26 (SofaScore Spain)
+[2026-06-10T22:19:45+00:00]   KSA  Arabia Saudí           club 8/26 (SofaScore Saudi Arabia)
+[2026-06-10T22:19:45+00:00]   URU  Uruguay                club 25/26 (SofaScore Uruguay)
+[2026-06-10T22:19:46+00:00]   FRA  Francia                club 25/26 (SofaScore France)
+[2026-06-10T22:19:46+00:00]   IRQ  Irak                   club 20/26 (SofaScore Iraq)
+[2026-06-10T22:19:47+00:00]   NOR  Noruega                club 19/26 (SofaScore Norway)
+[2026-06-10T22:19:48+00:00]   SEN  Senegal                club 25/26 (SofaScore Senegal)
+[2026-06-10T22:19:48+00:00]   ALG  Argelia                club 25/26 (SofaScore Algeria)
+[2026-06-10T22:19:49+00:00]   ARG  Argentina              club 24/26 (SofaScore Argentina)
+[2026-06-10T22:19:49+00:00]   AUT  Austria                club 23/26 (SofaScore Austria)
+[2026-06-10T22:19:50+00:00]   JOR  Jordania               club 10/26 (SofaScore Jordan)
+[2026-06-10T22:19:51+00:00]   COD  RD Congo               club 23/26 (SofaScore DR Congo)
+[2026-06-10T22:19:51+00:00]   COL  Colombia               club 26/26 (SofaScore Colombia)
+[2026-06-10T22:19:52+00:00]   POR  Portugal               club 26/26 (SofaScore Portugal)
+[2026-06-10T22:19:52+00:00]   UZB  Uzbekistán             club 19/26 (SofaScore Uzbekistan)
+[2026-06-10T22:19:53+00:00]   CRO  Croacia                club 26/26 (SofaScore Croatia)
+[2026-06-10T22:19:53+00:00]   ENG  Inglaterra             club 25/26 (SofaScore England)
+[2026-06-10T22:19:54+00:00]   GHA  Ghana                  club 24/26 (SofaScore Ghana)
+[2026-06-10T22:19:55+00:00]   PAN  Panamá                 club 25/26 (SofaScore Panama)
+[2026-06-10T22:19:55+00:00] OK: 48 equipos · 0 fallidos · 1079 clubes desde SofaScore
+[2026-06-10T22:19:55+00:00] cobertura final de club: 1108/1248 (88%)
+[2026-06-10T22:19:55+00:00] ===== enrich_clubs_sofascore.py END =====
+
+[2026-06-10T22:20:58+00:00] ===== enrich_clubs_sofascore.py START =====
+[2026-06-10T22:20:58+00:00] equipos SofaScore WC2026: 48
+[2026-06-10T22:20:59+00:00]   CZE  Chequia                club 26/26 (SofaScore Czechia)
+[2026-06-10T22:20:59+00:00]   KOR  República de Corea     club 2/26 (SofaScore South Korea)
+[2026-06-10T22:21:00+00:00]   MEX  México                 club 26/26 (SofaScore Mexico)
+[2026-06-10T22:21:00+00:00]   RSA  Sudáfrica              club 23/26 (SofaScore South Africa)
+[2026-06-10T22:21:01+00:00]   BIH  Bosnia y Herzegovina   club 26/26 (SofaScore Bosnia & Herzegovina)
+[2026-06-10T22:21:01+00:00]   CAN  Canadá                 club 25/26 (SofaScore Canada)
+[2026-06-10T22:21:02+00:00]   QAT  Catar                  club 14/26 (SofaScore Qatar)
+[2026-06-10T22:21:02+00:00]   SUI  Suiza                  club 25/26 (SofaScore Switzerland)
+[2026-06-10T22:21:03+00:00]   BRA  Brasil                 club 24/26 (SofaScore Brazil)
+[2026-06-10T22:21:04+00:00]   HAI  Haití                  club 25/26 (SofaScore Haiti)
+[2026-06-10T22:21:04+00:00]   MAR  Marruecos              club 23/26 (SofaScore Morocco)
+[2026-06-10T22:21:05+00:00]   SCO  Escocia                club 25/26 (SofaScore Scotland)
+[2026-06-10T22:21:05+00:00]   AUS  Australia              club 25/26 (SofaScore Australia)
+[2026-06-10T22:21:06+00:00]   PAR  Paraguay               club 24/26 (SofaScore Paraguay)
+[2026-06-10T22:21:06+00:00]   TUR  Turquía                club 17/26 (SofaScore Türkiye)
+[2026-06-10T22:21:07+00:00]   USA  EE. UU.                club 22/26 (SofaScore USA)
+[2026-06-10T22:21:07+00:00]   CIV  Costa de Marfil        club 26/26 (SofaScore Côte d'Ivoire)
+[2026-06-10T22:21:08+00:00]   CUW  Curazao                club 24/26 (SofaScore Curaçao)
+[2026-06-10T22:21:09+00:00]   ECU  Ecuador                club 26/26 (SofaScore Ecuador)
+[2026-06-10T22:21:09+00:00]   GER  Alemania               club 23/26 (SofaScore Germany)
+[2026-06-10T22:21:10+00:00]   JPN  Japón                  club 25/26 (SofaScore Japan)
+[2026-06-10T22:21:10+00:00]   NED  Países Bajos           club 26/26 (SofaScore Netherlands)
+[2026-06-10T22:21:11+00:00]   SWE  Suecia                 club 26/26 (SofaScore Sweden)
+[2026-06-10T22:21:11+00:00]   TUN  Túnez                  club 22/26 (SofaScore Tunisia)
+[2026-06-10T22:21:12+00:00]   BEL  Bélgica                club 26/26 (SofaScore Belgium)
+[2026-06-10T22:21:13+00:00]   EGY  Egipto                 club 17/26 (SofaScore Egypt)
+[2026-06-10T22:21:13+00:00]   IRN  RI de Irán             club 17/26 (SofaScore Iran)
+[2026-06-10T22:21:14+00:00]   NZL  Nueva Zelanda          club 25/26 (SofaScore New Zealand)
+[2026-06-10T22:21:14+00:00]   CPV  Islas de Cabo Verde    club 23/26 (SofaScore Cabo Verde)
+[2026-06-10T22:21:15+00:00]   ESP  España                 club 24/26 (SofaScore Spain)
+[2026-06-10T22:21:15+00:00]   KSA  Arabia Saudí           club 8/26 (SofaScore Saudi Arabia)
+[2026-06-10T22:21:16+00:00]   URU  Uruguay                club 25/26 (SofaScore Uruguay)
+[2026-06-10T22:21:16+00:00]   FRA  Francia                club 25/26 (SofaScore France)
+[2026-06-10T22:21:17+00:00]   IRQ  Irak                   club 20/26 (SofaScore Iraq)
+[2026-06-10T22:21:18+00:00]   NOR  Noruega                club 19/26 (SofaScore Norway)
+[2026-06-10T22:21:18+00:00]   SEN  Senegal                club 25/26 (SofaScore Senegal)
+[2026-06-10T22:21:19+00:00]   ALG  Argelia                club 25/26 (SofaScore Algeria)
+[2026-06-10T22:21:19+00:00]   ARG  Argentina              club 24/26 (SofaScore Argentina)
+[2026-06-10T22:21:20+00:00]   AUT  Austria                club 23/26 (SofaScore Austria)
+[2026-06-10T22:21:20+00:00]   JOR  Jordania               club 10/26 (SofaScore Jordan)
+[2026-06-10T22:21:21+00:00]   COD  RD Congo               club 23/26 (SofaScore DR Congo)
+[2026-06-10T22:21:22+00:00]   COL  Colombia               club 26/26 (SofaScore Colombia)
+[2026-06-10T22:21:22+00:00]   POR  Portugal               club 26/26 (SofaScore Portugal)
+[2026-06-10T22:21:23+00:00]   UZB  Uzbekistán             club 19/26 (SofaScore Uzbekistan)
+[2026-06-10T22:21:23+00:00]   CRO  Croacia                club 26/26 (SofaScore Croatia)
+[2026-06-10T22:21:24+00:00]   ENG  Inglaterra             club 25/26 (SofaScore England)
+[2026-06-10T22:21:24+00:00]   GHA  Ghana                  club 25/26 (SofaScore Ghana)
+[2026-06-10T22:21:25+00:00]   PAN  Panamá                 club 25/26 (SofaScore Panama)
+[2026-06-10T22:21:25+00:00] OK: 48 equipos · 0 fallidos · 1081 clubes desde SofaScore
+[2026-06-10T22:21:25+00:00] cobertura final de club: 1110/1248 (88%)
+[2026-06-10T22:21:25+00:00] ===== enrich_clubs_sofascore.py END =====
+
+[2026-06-10T22:22:09+00:00] ===== enrich_clubs_sofascore.py START =====
+[2026-06-10T22:22:09+00:00] equipos SofaScore WC2026: 48
+[2026-06-10T22:22:10+00:00]   CZE  Chequia                club 26/26 (SofaScore Czechia)
+[2026-06-10T22:22:10+00:00]   KOR  República de Corea     club 12/26 (SofaScore South Korea)
+[2026-06-10T22:22:11+00:00]   MEX  México                 club 26/26 (SofaScore Mexico)
+[2026-06-10T22:22:11+00:00]   RSA  Sudáfrica              club 23/26 (SofaScore South Africa)
+[2026-06-10T22:22:12+00:00]   BIH  Bosnia y Herzegovina   club 26/26 (SofaScore Bosnia & Herzegovina)
+[2026-06-10T22:22:12+00:00]   CAN  Canadá                 club 25/26 (SofaScore Canada)
+[2026-06-10T22:22:13+00:00]   QAT  Catar                  club 18/26 (SofaScore Qatar)
+[2026-06-10T22:22:13+00:00]   SUI  Suiza                  club 25/26 (SofaScore Switzerland)
+[2026-06-10T22:22:14+00:00]   BRA  Brasil                 club 24/26 (SofaScore Brazil)
+[2026-06-10T22:22:15+00:00]   HAI  Haití                  club 25/26 (SofaScore Haiti)
+[2026-06-10T22:22:15+00:00]   MAR  Marruecos              club 23/26 (SofaScore Morocco)
+[2026-06-10T22:22:16+00:00]   SCO  Escocia                club 25/26 (SofaScore Scotland)
+[2026-06-10T22:22:16+00:00]   AUS  Australia              club 26/26 (SofaScore Australia)
+[2026-06-10T22:22:17+00:00]   PAR  Paraguay               club 24/26 (SofaScore Paraguay)
+[2026-06-10T22:22:17+00:00]   TUR  Turquía                club 17/26 (SofaScore Türkiye)
+[2026-06-10T22:22:18+00:00]   USA  EE. UU.                club 22/26 (SofaScore USA)
+[2026-06-10T22:22:19+00:00]   CIV  Costa de Marfil        club 26/26 (SofaScore Côte d'Ivoire)
+[2026-06-10T22:22:19+00:00]   CUW  Curazao                club 25/26 (SofaScore Curaçao)
+[2026-06-10T22:22:20+00:00]   ECU  Ecuador                club 26/26 (SofaScore Ecuador)
+[2026-06-10T22:22:20+00:00]   GER  Alemania               club 23/26 (SofaScore Germany)
+[2026-06-10T22:22:21+00:00]   JPN  Japón                  club 25/26 (SofaScore Japan)
+[2026-06-10T22:22:21+00:00]   NED  Países Bajos           club 26/26 (SofaScore Netherlands)
+[2026-06-10T22:22:22+00:00]   SWE  Suecia                 club 26/26 (SofaScore Sweden)
+[2026-06-10T22:22:23+00:00]   TUN  Túnez                  club 22/26 (SofaScore Tunisia)
+[2026-06-10T22:22:23+00:00]   BEL  Bélgica                club 26/26 (SofaScore Belgium)
+[2026-06-10T22:22:24+00:00]   EGY  Egipto                 club 18/26 (SofaScore Egypt)
+[2026-06-10T22:22:24+00:00]   IRN  RI de Irán             club 17/26 (SofaScore Iran)
+[2026-06-10T22:22:25+00:00]   NZL  Nueva Zelanda          club 25/26 (SofaScore New Zealand)
+[2026-06-10T22:22:25+00:00]   CPV  Islas de Cabo Verde    club 23/26 (SofaScore Cabo Verde)
+[2026-06-10T22:22:26+00:00]   ESP  España                 club 24/26 (SofaScore Spain)
+[2026-06-10T22:22:26+00:00]   KSA  Arabia Saudí           club 20/26 (SofaScore Saudi Arabia)
+[2026-06-10T22:22:27+00:00]   URU  Uruguay                club 25/26 (SofaScore Uruguay)
+[2026-06-10T22:22:28+00:00]   FRA  Francia                club 26/26 (SofaScore France)
+[2026-06-10T22:22:28+00:00]   IRQ  Irak                   club 22/26 (SofaScore Iraq)
+[2026-06-10T22:22:29+00:00]   NOR  Noruega                club 19/26 (SofaScore Norway)
+[2026-06-10T22:22:29+00:00]   SEN  Senegal                club 25/26 (SofaScore Senegal)
+[2026-06-10T22:22:30+00:00]   ALG  Argelia                club 25/26 (SofaScore Algeria)
+[2026-06-10T22:22:30+00:00]   ARG  Argentina              club 24/26 (SofaScore Argentina)
+[2026-06-10T22:22:31+00:00]   AUT  Austria                club 23/26 (SofaScore Austria)
+[2026-06-10T22:22:31+00:00]   JOR  Jordania               club 15/26 (SofaScore Jordan)
+[2026-06-10T22:22:32+00:00]   COD  RD Congo               club 24/26 (SofaScore DR Congo)
+[2026-06-10T22:22:33+00:00]   COL  Colombia               club 26/26 (SofaScore Colombia)
+[2026-06-10T22:22:33+00:00]   POR  Portugal               club 26/26 (SofaScore Portugal)
+[2026-06-10T22:22:34+00:00]   UZB  Uzbekistán             club 19/26 (SofaScore Uzbekistan)
+[2026-06-10T22:22:34+00:00]   CRO  Croacia                club 26/26 (SofaScore Croatia)
+[2026-06-10T22:22:35+00:00]   ENG  Inglaterra             club 26/26 (SofaScore England)
+[2026-06-10T22:22:35+00:00]   GHA  Ghana                  club 25/26 (SofaScore Ghana)
+[2026-06-10T22:22:36+00:00]   PAN  Panamá                 club 25/26 (SofaScore Panama)
+[2026-06-10T22:22:36+00:00] OK: 48 equipos · 0 fallidos · 1120 clubes desde SofaScore
+[2026-06-10T22:22:36+00:00] cobertura final de club: 1148/1248 (91%)
+[2026-06-10T22:22:36+00:00] ===== enrich_clubs_sofascore.py END =====
+
+[2026-06-10T22:23:12+00:00] ===== enrich_clubs_sofascore.py START =====
+[2026-06-10T22:23:13+00:00] equipos SofaScore WC2026: 48
+[2026-06-10T22:23:13+00:00]   CZE  Chequia                club 26/26 (SofaScore Czechia)
+[2026-06-10T22:23:13+00:00]   KOR  República de Corea     club 26/26 (SofaScore South Korea)
+[2026-06-10T22:23:14+00:00]   MEX  México                 club 26/26 (SofaScore Mexico)
+[2026-06-10T22:23:14+00:00]   RSA  Sudáfrica              club 23/26 (SofaScore South Africa)
+[2026-06-10T22:23:15+00:00]   BIH  Bosnia y Herzegovina   club 26/26 (SofaScore Bosnia & Herzegovina)
+[2026-06-10T22:23:15+00:00]   CAN  Canadá                 club 25/26 (SofaScore Canada)
+[2026-06-10T22:23:16+00:00]   QAT  Catar                  club 18/26 (SofaScore Qatar)
+[2026-06-10T22:23:17+00:00]   SUI  Suiza                  club 25/26 (SofaScore Switzerland)
+[2026-06-10T22:23:17+00:00]   BRA  Brasil                 club 24/26 (SofaScore Brazil)
+[2026-06-10T22:23:18+00:00]   HAI  Haití                  club 25/26 (SofaScore Haiti)
+[2026-06-10T22:23:18+00:00]   MAR  Marruecos              club 23/26 (SofaScore Morocco)
+[2026-06-10T22:23:19+00:00]   SCO  Escocia                club 25/26 (SofaScore Scotland)
+[2026-06-10T22:23:19+00:00]   AUS  Australia              club 26/26 (SofaScore Australia)
+[2026-06-10T22:23:20+00:00]   PAR  Paraguay               club 24/26 (SofaScore Paraguay)
+[2026-06-10T22:23:20+00:00]   TUR  Turquía                club 17/26 (SofaScore Türkiye)
+[2026-06-10T22:23:21+00:00]   USA  EE. UU.                club 22/26 (SofaScore USA)
+[2026-06-10T22:23:22+00:00]   CIV  Costa de Marfil        club 26/26 (SofaScore Côte d'Ivoire)
+[2026-06-10T22:23:22+00:00]   CUW  Curazao                club 25/26 (SofaScore Curaçao)
+[2026-06-10T22:23:23+00:00]   ECU  Ecuador                club 26/26 (SofaScore Ecuador)
+[2026-06-10T22:23:23+00:00]   GER  Alemania               club 23/26 (SofaScore Germany)
+[2026-06-10T22:23:24+00:00]   JPN  Japón                  club 25/26 (SofaScore Japan)
+[2026-06-10T22:23:24+00:00]   NED  Países Bajos           club 26/26 (SofaScore Netherlands)
+[2026-06-10T22:23:25+00:00]   SWE  Suecia                 club 26/26 (SofaScore Sweden)
+[2026-06-10T22:23:25+00:00]   TUN  Túnez                  club 22/26 (SofaScore Tunisia)
+[2026-06-10T22:23:26+00:00]   BEL  Bélgica                club 26/26 (SofaScore Belgium)
+[2026-06-10T22:23:27+00:00]   EGY  Egipto                 club 18/26 (SofaScore Egypt)
+[2026-06-10T22:23:27+00:00]   IRN  RI de Irán             club 17/26 (SofaScore Iran)
+[2026-06-10T22:23:28+00:00]   NZL  Nueva Zelanda          club 25/26 (SofaScore New Zealand)
+[2026-06-10T22:23:28+00:00]   CPV  Islas de Cabo Verde    club 23/26 (SofaScore Cabo Verde)
+[2026-06-10T22:23:29+00:00]   ESP  España                 club 24/26 (SofaScore Spain)
+[2026-06-10T22:23:30+00:00]   KSA  Arabia Saudí           club 20/26 (SofaScore Saudi Arabia)
+[2026-06-10T22:23:30+00:00]   URU  Uruguay                club 25/26 (SofaScore Uruguay)
+[2026-06-10T22:23:31+00:00]   FRA  Francia                club 26/26 (SofaScore France)
+[2026-06-10T22:23:32+00:00]   IRQ  Irak                   club 22/26 (SofaScore Iraq)
+[2026-06-10T22:23:32+00:00]   NOR  Noruega                club 19/26 (SofaScore Norway)
+[2026-06-10T22:23:33+00:00]   SEN  Senegal                club 25/26 (SofaScore Senegal)
+[2026-06-10T22:23:33+00:00]   ALG  Argelia                club 25/26 (SofaScore Algeria)
+[2026-06-10T22:23:34+00:00]   ARG  Argentina              club 24/26 (SofaScore Argentina)
+[2026-06-10T22:23:34+00:00]   AUT  Austria                club 23/26 (SofaScore Austria)
+[2026-06-10T22:23:35+00:00]   JOR  Jordania               club 15/26 (SofaScore Jordan)
+[2026-06-10T22:23:36+00:00]   COD  RD Congo               club 24/26 (SofaScore DR Congo)
+[2026-06-10T22:23:36+00:00]   COL  Colombia               club 26/26 (SofaScore Colombia)
+[2026-06-10T22:23:37+00:00]   POR  Portugal               club 26/26 (SofaScore Portugal)
+[2026-06-10T22:23:37+00:00]   UZB  Uzbekistán             club 19/26 (SofaScore Uzbekistan)
+[2026-06-10T22:23:38+00:00]   CRO  Croacia                club 26/26 (SofaScore Croatia)
+[2026-06-10T22:23:38+00:00]   ENG  Inglaterra             club 26/26 (SofaScore England)
+[2026-06-10T22:23:39+00:00]   GHA  Ghana                  club 25/26 (SofaScore Ghana)
+[2026-06-10T22:23:39+00:00]   PAN  Panamá                 club 25/26 (SofaScore Panama)
+[2026-06-10T22:23:40+00:00] OK: 48 equipos · 0 fallidos · 1134 clubes desde SofaScore
+[2026-06-10T22:23:40+00:00] cobertura final de club: 1162/1248 (93%)
+[2026-06-10T22:23:40+00:00] ===== enrich_clubs_sofascore.py END =====
+
+[2026-06-10T22:29:22+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 438 KB embebidos · last_update=2026-06-10 18:52
+[2026-06-10T22:59:41+00:00] ===== scrape_player_stats_sofascore.py START =====
+[2026-06-10T22:59:41+00:00] equipos WC2026 mapeados: 48
+[2026-06-10T22:59:44+00:00]   Copa América 2024                          filas: 339
+[2026-06-10T22:59:50+00:00]   Euro 2024                                  filas: 493
+[2026-06-10T23:00:06+00:00]   Nations League UEFA 24/25 (Final Four)     ERROR: GET https://api.sofascore.com/api/v1/unique-tournament/11798/season/58776/statistics?limit=100&offset=0&order=-rating&accumulation=total&fields=goals,assists,expectedGoals,expectedAssists,totalShots,shotsOnTarget,minutesPlayed,appearances,tackles,interceptions,clearances,fouls,wasFouled,yellowCards,redCards,saves,keyPasses,bigChancesCreated,bigChancesMissed,rating :: HTTP 422
+[2026-06-10T23:00:07+00:00]   Nations League UEFA 24/25 (Liga A)         filas: 0
+[2026-06-10T23:00:08+00:00]   CONCACAF Nations League 2024               filas: 0
+[2026-06-10T23:00:09+00:00]   AFCON 2024                                 filas: 0
+[2026-06-10T23:00:10+00:00]   Copa Asia AFC 2024                         filas: 0
+[2026-06-10T23:00:11+00:00]   OFC Nations Cup 2024                       filas: 0
+[2026-06-10T23:00:12+00:00]   Eliminatorias CONMEBOL 2026                filas: 0
+[2026-06-10T23:00:29+00:00]   Eliminatorias UEFA 2026                    ERROR: GET https://api.sofascore.com/api/v1/unique-tournament/119/season/57435/statistics?limit=100&offset=0&order=-rating&accumulation=total&fields=goals,assists,expectedGoals,expectedAssists,totalShots,shotsOnTarget,minutesPlayed,appearances,tackles,interceptions,clearances,fouls,wasFouled,yellowCards,redCards,saves,keyPasses,bigChancesCreated,bigChancesMissed,rating :: HTTP 422
+[2026-06-10T23:00:30+00:00]   Eliminatorias CONCACAF 2026                filas: 0
+[2026-06-10T23:00:31+00:00]   Eliminatorias CAF 2026                     filas: 0
+[2026-06-10T23:00:32+00:00]   Eliminatorias AFC 2026                     filas: 0
+[2026-06-10T23:00:33+00:00]   Eliminatorias OFC 2026                     filas: 0
+[2026-06-10T23:00:34+00:00]   World Cup 2026                             filas: 0
+[2026-06-10T23:00:34+00:00] player_stats_season.json: 23 selecciones · 481 jugadores con stats REALES de SofaScore (15 torneos, sin amistosos)
+[2026-06-10T23:00:34+00:00] ===== scrape_player_stats_sofascore.py END =====
+
+[2026-06-10T23:25:07+00:00] ===== scrape_player_stats_sofascore.py START =====
+[2026-06-10T23:25:07+00:00] equipos WC2026 mapeados: 48
+[2026-06-10T23:25:10+00:00]   Copa América 2024                          filas: 339
+[2026-06-10T23:25:16+00:00]   Euro 2024                                  filas: 493
+[2026-06-10T23:25:32+00:00]   UEFA Nations League 2024/25                filas: 1549
+[2026-06-10T23:25:43+00:00]   CONCACAF Nations League 2024/25            filas: 1066
+[2026-06-10T23:25:50+00:00]   AFCON 2023 (ene-2024)                      filas: 510
+[2026-06-10T23:25:56+00:00]   AFC Asian Cup 2023 (ene-2024)              filas: 505
+[2026-06-10T23:25:59+00:00]   OFC Nations Cup 2024                       filas: 141
+[2026-06-10T23:26:15+00:00]   Eliminatorias UEFA 2026                    filas: 1590
+[2026-06-10T23:26:21+00:00]   Eliminatorias CONMEBOL 2026                filas: 462
+[2026-06-10T23:26:43+00:00]   Eliminatorias CAF 2026                     filas: 2119
+[2026-06-10T23:26:53+00:00]   Eliminatorias CONCACAF 2026                filas: 952
+[2026-06-10T23:26:54+00:00]   World Cup 2026 (en vivo)                   filas: 0
+[2026-06-10T23:26:55+00:00] player_stats_season.json: 48 selecciones · 1754 jugadores con stats REALES de SofaScore (12 torneos, sin amistosos)
+[2026-06-10T23:26:55+00:00] ===== scrape_player_stats_sofascore.py END =====
+
