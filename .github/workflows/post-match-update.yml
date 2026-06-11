@@ -1,0 +1,63 @@
+name: post-match-update
+
+# Actualiza la data del Mundial ~30 min después de que finaliza cada partido.
+# Corre cada 15 min, pero solo scrapea+commitea cuando post_match_gate.py
+# detecta que un partido terminó. Fuente: API pública de FIFA (api.fifa.com).
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # cada 15 min (UTC). GitHub puede demorarlo unos min.
+  workflow_dispatch:           # permite dispararlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write              # para commitear la data actualizada
+
+concurrency:
+  group: post-match-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: ¿Terminó algún partido?
+        id: gate
+        run: |
+          if python3 scrapers/post_match_gate.py; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Scrapear resultados + stats (FIFA) y reembeber en index.html
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          python3 scrapers/scrape_wc_stats.py
+          date '+%Y-%m-%d %H:%M' > data/last_update.txt
+          python3 scrapers/embed_data.py
+
+      - name: Marcar partidos ya procesados
+        if: steps.gate.outputs.run == 'true'
+        run: python3 scrapers/post_match_gate.py mark
+
+      - name: Commitear cambios
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "wc2026-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Sin cambios para commitear."
+          else
+            git commit -m "data: actualización post-partido $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
