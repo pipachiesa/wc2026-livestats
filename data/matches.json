@@ -38,9 +38,9 @@
       "date": "2026-06-12",
       "datetime": "2026-06-12T19:00:00Z",
       "stadium": "Estadio de Toronto",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 1,
+      "away_score": 1,
+      "status": "played"
     },
     {
       "id": "USA-PAR",
