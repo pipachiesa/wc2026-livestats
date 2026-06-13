@@ -66,9 +66,9 @@
       "date": "2026-06-13",
       "datetime": "2026-06-13T19:00:00Z",
       "stadium": "Estadio de la Bahía de San Francisco",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 1,
+      "away_score": 1,
+      "status": "played"
     },
     {
       "id": "BRA-MAR",
