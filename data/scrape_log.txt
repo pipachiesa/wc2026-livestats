@@ -627,3 +627,21 @@
 [2026-06-14T07:09:00+00:00] ===== scrape_wc_stats.py END · 5.9s =====
 
 [2026-06-14T07:09:00+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 779 KB embebidos · last_update=2026-06-14 07:09
+[2026-06-14T20:16:37+00:00] ===== scrape_wc_stats.py START =====
+[2026-06-14T20:16:37+00:00]   match upd GER-CUW: None-None(upcoming) -> 7-1(played)
+[2026-06-14T20:16:37+00:00]   match upd NED-JPN: None-None(upcoming) -> 0-0(live)
+[2026-06-14T20:16:37+00:00] matches.json: 104 partidos · 0 nuevos · 2 actualizados
+[2026-06-14T20:16:37+00:00]   WC stats agregadas: MEX-RSA (MEX-RSA)
+[2026-06-14T20:16:38+00:00]   WC stats agregadas: KOR-CZE (KOR-CZE)
+[2026-06-14T20:16:39+00:00]   WC stats agregadas: CAN-BIH (CAN-BIH)
+[2026-06-14T20:16:39+00:00]   WC stats agregadas: USA-PAR (USA-PAR)
+[2026-06-14T20:16:40+00:00]   WC stats agregadas: QAT-SUI (QAT-SUI)
+[2026-06-14T20:16:41+00:00]   WC stats agregadas: BRA-MAR (BRA-MAR)
+[2026-06-14T20:16:41+00:00]   WC stats agregadas: HAI-SCO (HAI-SCO)
+[2026-06-14T20:16:42+00:00]   WC stats agregadas: AUS-TUR (AUS-TUR)
+[2026-06-14T20:16:43+00:00]   WC stats agregadas: GER-CUW (GER-CUW)
+[2026-06-14T20:16:43+00:00] player_stats_wc.json: 18 equipos · 281 jugadores con datos WC
+[2026-06-14T20:16:43+00:00] player_stats_season.json: 48 equipos · 1222 jugadores (seed desde index.html · fuente real futura: FBref)
+[2026-06-14T20:16:43+00:00] ===== scrape_wc_stats.py END · 6.7s =====
+
+[2026-06-14T20:16:44+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 782 KB embebidos · last_update=2026-06-14 20:16
