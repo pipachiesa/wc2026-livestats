@@ -234,9 +234,9 @@
       "date": "2026-06-16",
       "datetime": "2026-06-16T19:00:00Z",
       "stadium": "Estadio Nueva York/Nueva Jersey",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 3,
+      "away_score": 1,
+      "status": "played"
     },
     {
       "id": "IRQ-NOR",
