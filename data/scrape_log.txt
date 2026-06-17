@@ -835,3 +835,32 @@
 [2026-06-17T07:10:34+00:00] ===== scrape_wc_stats.py END · 18.0s =====
 
 [2026-06-17T07:10:34+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 818 KB embebidos · last_update=2026-06-17 07:10
+[2026-06-17T19:58:24+00:00] ===== scrape_wc_stats.py START =====
+[2026-06-17T19:58:24+00:00]   match upd POR-COD: None-None(upcoming) -> 1-1(played)
+[2026-06-17T19:58:24+00:00] matches.json: 104 partidos · 0 nuevos · 1 actualizados
+[2026-06-17T19:58:24+00:00]   WC stats agregadas: MEX-RSA (MEX-RSA)
+[2026-06-17T19:58:25+00:00]   WC stats agregadas: KOR-CZE (KOR-CZE)
+[2026-06-17T19:58:26+00:00]   WC stats agregadas: CAN-BIH (CAN-BIH)
+[2026-06-17T19:58:27+00:00]   WC stats agregadas: USA-PAR (USA-PAR)
+[2026-06-17T19:58:28+00:00]   WC stats agregadas: QAT-SUI (QAT-SUI)
+[2026-06-17T19:58:29+00:00]   WC stats agregadas: BRA-MAR (BRA-MAR)
+[2026-06-17T19:58:30+00:00]   WC stats agregadas: HAI-SCO (HAI-SCO)
+[2026-06-17T19:58:31+00:00]   WC stats agregadas: AUS-TUR (AUS-TUR)
+[2026-06-17T19:58:32+00:00]   WC stats agregadas: GER-CUW (GER-CUW)
+[2026-06-17T19:58:33+00:00]   WC stats agregadas: NED-JPN (NED-JPN)
+[2026-06-17T19:58:33+00:00]   WC stats agregadas: CIV-ECU (CIV-ECU)
+[2026-06-17T19:58:34+00:00]   WC stats agregadas: SWE-TUN (SWE-TUN)
+[2026-06-17T19:58:35+00:00]   WC stats agregadas: ESP-CPV (ESP-CPV)
+[2026-06-17T19:58:36+00:00]   WC stats agregadas: BEL-EGY (BEL-EGY)
+[2026-06-17T19:58:37+00:00]   WC stats agregadas: KSA-URU (KSA-URU)
+[2026-06-17T19:58:38+00:00]   WC stats agregadas: IRN-NZL (IRN-NZL)
+[2026-06-17T19:58:39+00:00]   WC stats agregadas: FRA-SEN (FRA-SEN)
+[2026-06-17T19:58:40+00:00]   WC stats agregadas: IRQ-NOR (IRQ-NOR)
+[2026-06-17T19:58:40+00:00]   WC stats agregadas: ARG-ALG (ARG-ALG)
+[2026-06-17T19:58:41+00:00]   WC stats agregadas: AUT-JOR (AUT-JOR)
+[2026-06-17T19:58:42+00:00]   WC stats agregadas: POR-COD (POR-COD)
+[2026-06-17T19:58:43+00:00] player_stats_wc.json: 42 equipos · 658 jugadores con datos WC
+[2026-06-17T19:58:43+00:00] player_stats_season.json: 48 equipos · 1222 jugadores (seed desde index.html · fuente real futura: FBref)
+[2026-06-17T19:58:43+00:00] ===== scrape_wc_stats.py END · 18.8s =====
+
+[2026-06-17T19:58:43+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 821 KB embebidos · last_update=2026-06-17 19:58
