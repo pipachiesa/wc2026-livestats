@@ -926,3 +926,35 @@
 [2026-06-18T02:00:29+00:00] ===== scrape_wc_stats.py END · 21.6s =====
 
 [2026-06-18T02:00:29+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 828 KB embebidos · last_update=2026-06-18 02:00
+[2026-06-18T06:56:24+00:00] ===== scrape_wc_stats.py START =====
+[2026-06-18T06:56:25+00:00]   match upd UZB-COL: None-None(upcoming) -> 1-3(played)
+[2026-06-18T06:56:25+00:00] matches.json: 104 partidos · 0 nuevos · 1 actualizados
+[2026-06-18T06:56:25+00:00]   WC stats agregadas: MEX-RSA (MEX-RSA)
+[2026-06-18T06:56:26+00:00]   WC stats agregadas: KOR-CZE (KOR-CZE)
+[2026-06-18T06:56:27+00:00]   WC stats agregadas: CAN-BIH (CAN-BIH)
+[2026-06-18T06:56:27+00:00]   WC stats agregadas: USA-PAR (USA-PAR)
+[2026-06-18T06:56:28+00:00]   WC stats agregadas: QAT-SUI (QAT-SUI)
+[2026-06-18T06:56:29+00:00]   WC stats agregadas: BRA-MAR (BRA-MAR)
+[2026-06-18T06:56:29+00:00]   WC stats agregadas: HAI-SCO (HAI-SCO)
+[2026-06-18T06:56:30+00:00]   WC stats agregadas: AUS-TUR (AUS-TUR)
+[2026-06-18T06:56:31+00:00]   WC stats agregadas: GER-CUW (GER-CUW)
+[2026-06-18T06:56:32+00:00]   WC stats agregadas: NED-JPN (NED-JPN)
+[2026-06-18T06:56:32+00:00]   WC stats agregadas: CIV-ECU (CIV-ECU)
+[2026-06-18T06:56:33+00:00]   WC stats agregadas: SWE-TUN (SWE-TUN)
+[2026-06-18T06:56:34+00:00]   WC stats agregadas: ESP-CPV (ESP-CPV)
+[2026-06-18T06:56:35+00:00]   WC stats agregadas: BEL-EGY (BEL-EGY)
+[2026-06-18T06:56:35+00:00]   WC stats agregadas: KSA-URU (KSA-URU)
+[2026-06-18T06:56:36+00:00]   WC stats agregadas: IRN-NZL (IRN-NZL)
+[2026-06-18T06:56:37+00:00]   WC stats agregadas: FRA-SEN (FRA-SEN)
+[2026-06-18T06:56:37+00:00]   WC stats agregadas: IRQ-NOR (IRQ-NOR)
+[2026-06-18T06:56:38+00:00]   WC stats agregadas: ARG-ALG (ARG-ALG)
+[2026-06-18T06:56:39+00:00]   WC stats agregadas: AUT-JOR (AUT-JOR)
+[2026-06-18T06:56:39+00:00]   WC stats agregadas: POR-COD (POR-COD)
+[2026-06-18T06:56:40+00:00]   WC stats agregadas: ENG-CRO (ENG-CRO)
+[2026-06-18T06:56:41+00:00]   WC stats agregadas: GHA-PAN (GHA-PAN)
+[2026-06-18T06:56:42+00:00]   WC stats agregadas: UZB-COL (UZB-COL)
+[2026-06-18T06:56:42+00:00] player_stats_wc.json: 48 equipos · 753 jugadores con datos WC
+[2026-06-18T06:56:42+00:00] player_stats_season.json: 48 equipos · 1222 jugadores (seed desde index.html · fuente real futura: FBref)
+[2026-06-18T06:56:42+00:00] ===== scrape_wc_stats.py END · 17.8s =====
+
+[2026-06-18T06:56:42+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 831 KB embebidos · last_update=2026-06-18 06:56
