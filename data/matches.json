@@ -374,9 +374,9 @@
       "date": "2026-06-18",
       "datetime": "2026-06-18T22:00:00Z",
       "stadium": "Estadio BC Place Vancouver",
-      "home_score": null,
-      "away_score": null,
-      "status": "live"
+      "home_score": 6,
+      "away_score": 0,
+      "status": "played"
     },
     {
       "id": "MEX-KOR",
@@ -388,9 +388,9 @@
       "date": "2026-06-19",
       "datetime": "2026-06-19T01:00:00Z",
       "stadium": "Estadio Guadalajara",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 1,
+      "away_score": 0,
+      "status": "live"
     },
     {
       "id": "USA-AUS",

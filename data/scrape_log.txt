@@ -1027,3 +1027,39 @@
 [2026-06-18T21:56:49+00:00] ===== scrape_wc_stats.py END · 20.9s =====
 
 [2026-06-18T21:56:49+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 832 KB embebidos · last_update=2026-06-18 21:56
+[2026-06-19T02:18:28+00:00] ===== scrape_wc_stats.py START =====
+[2026-06-19T02:18:28+00:00]   match upd CAN-QAT: None-None(live) -> 6-0(played)
+[2026-06-19T02:18:28+00:00]   match upd MEX-KOR: None-None(upcoming) -> 1-0(live)
+[2026-06-19T02:18:28+00:00] matches.json: 104 partidos · 0 nuevos · 2 actualizados
+[2026-06-19T02:18:29+00:00]   WC stats agregadas: MEX-RSA (MEX-RSA)
+[2026-06-19T02:18:30+00:00]   WC stats agregadas: KOR-CZE (KOR-CZE)
+[2026-06-19T02:18:30+00:00]   WC stats agregadas: CAN-BIH (CAN-BIH)
+[2026-06-19T02:18:31+00:00]   WC stats agregadas: USA-PAR (USA-PAR)
+[2026-06-19T02:18:32+00:00]   WC stats agregadas: QAT-SUI (QAT-SUI)
+[2026-06-19T02:18:33+00:00]   WC stats agregadas: BRA-MAR (BRA-MAR)
+[2026-06-19T02:18:34+00:00]   WC stats agregadas: HAI-SCO (HAI-SCO)
+[2026-06-19T02:18:35+00:00]   WC stats agregadas: AUS-TUR (AUS-TUR)
+[2026-06-19T02:18:36+00:00]   WC stats agregadas: GER-CUW (GER-CUW)
+[2026-06-19T02:18:37+00:00]   WC stats agregadas: NED-JPN (NED-JPN)
+[2026-06-19T02:18:38+00:00]   WC stats agregadas: CIV-ECU (CIV-ECU)
+[2026-06-19T02:18:38+00:00]   WC stats agregadas: SWE-TUN (SWE-TUN)
+[2026-06-19T02:18:40+00:00]   WC stats agregadas: ESP-CPV (ESP-CPV)
+[2026-06-19T02:18:40+00:00]   WC stats agregadas: BEL-EGY (BEL-EGY)
+[2026-06-19T02:18:41+00:00]   WC stats agregadas: KSA-URU (KSA-URU)
+[2026-06-19T02:18:42+00:00]   WC stats agregadas: IRN-NZL (IRN-NZL)
+[2026-06-19T02:18:43+00:00]   WC stats agregadas: FRA-SEN (FRA-SEN)
+[2026-06-19T02:18:44+00:00]   WC stats agregadas: IRQ-NOR (IRQ-NOR)
+[2026-06-19T02:18:45+00:00]   WC stats agregadas: ARG-ALG (ARG-ALG)
+[2026-06-19T02:18:45+00:00]   WC stats agregadas: AUT-JOR (AUT-JOR)
+[2026-06-19T02:18:46+00:00]   WC stats agregadas: POR-COD (POR-COD)
+[2026-06-19T02:18:47+00:00]   WC stats agregadas: ENG-CRO (ENG-CRO)
+[2026-06-19T02:18:48+00:00]   WC stats agregadas: GHA-PAN (GHA-PAN)
+[2026-06-19T02:18:49+00:00]   WC stats agregadas: UZB-COL (UZB-COL)
+[2026-06-19T02:18:49+00:00]   WC stats agregadas: CZE-RSA (CZE-RSA)
+[2026-06-19T02:18:50+00:00]   WC stats agregadas: SUI-BIH (SUI-BIH)
+[2026-06-19T02:18:51+00:00]   WC stats agregadas: CAN-QAT (CAN-QAT)
+[2026-06-19T02:18:51+00:00] player_stats_wc.json: 48 equipos · 773 jugadores con datos WC
+[2026-06-19T02:18:51+00:00] player_stats_season.json: 48 equipos · 1222 jugadores (seed desde index.html · fuente real futura: FBref)
+[2026-06-19T02:18:51+00:00] ===== scrape_wc_stats.py END · 23.4s =====
+
+[2026-06-19T02:18:51+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 833 KB embebidos · last_update=2026-06-19 02:18
