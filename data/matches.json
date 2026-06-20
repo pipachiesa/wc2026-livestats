@@ -458,9 +458,9 @@
       "date": "2026-06-20",
       "datetime": "2026-06-20T17:00:00Z",
       "stadium": "Estadio Houston",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 5,
+      "away_score": 1,
+      "status": "played"
     },
     {
       "id": "GER-CIV",
