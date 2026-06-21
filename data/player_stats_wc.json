@@ -4108,9 +4108,9 @@
   },
   "ESP": {
     "430753": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
@@ -4126,36 +4126,36 @@
       "red_cards": 0
     },
     "335999": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "474973": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "430735": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "430718": {
-      "appearances": 1,
+      "appearances": 2,
       "started": 1,
-      "minutes": 71,
+      "minutes": 91,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
@@ -4171,25 +4171,25 @@
       "red_cards": 0
     },
     "411375": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 87,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 177,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "423646": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 160,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 1,
       "red_cards": 0
     },
     "405545": {
-      "appearances": 1,
+      "appearances": 2,
       "started": 1,
       "minutes": 81,
       "goals": 0,
@@ -4198,6 +4198,51 @@
       "red_cards": 0
     },
     "430751": {
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
+      "goals": 2,
+      "assists": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    "430733": {
+      "appearances": 2,
+      "started": 0,
+      "minutes": 48,
+      "goals": 0,
+      "assists": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    "484320": {
+      "appearances": 2,
+      "started": 1,
+      "minutes": 109,
+      "goals": 1,
+      "assists": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    "430750": {
+      "appearances": 2,
+      "started": 1,
+      "minutes": 70,
+      "goals": 0,
+      "assists": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    "447855": {
+      "appearances": 2,
+      "started": 0,
+      "minutes": 32,
+      "goals": 0,
+      "assists": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    "430144": {
       "appearances": 1,
       "started": 1,
       "minutes": 90,
@@ -4206,37 +4251,19 @@
       "yellow_cards": 0,
       "red_cards": 0
     },
-    "430733": {
+    "447860": {
       "appearances": 1,
-      "started": 0,
-      "minutes": 19,
+      "started": 1,
+      "minutes": 61,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
-    "484320": {
+    "423658": {
       "appearances": 1,
       "started": 0,
-      "minutes": 19,
-      "goals": 0,
-      "assists": 0,
-      "yellow_cards": 0,
-      "red_cards": 0
-    },
-    "430750": {
-      "appearances": 1,
-      "started": 0,
-      "minutes": 9,
-      "goals": 0,
-      "assists": 0,
-      "yellow_cards": 0,
-      "red_cards": 0
-    },
-    "447855": {
-      "appearances": 1,
-      "started": 0,
-      "minutes": 3,
+      "minutes": 0,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
@@ -4683,108 +4710,108 @@
   },
   "KSA": {
     "396885": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "403312": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 150,
       "goals": 1,
       "assists": 0,
       "yellow_cards": 1,
       "red_cards": 0
     },
     "403335": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "419281": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "419303": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "512183": {
-      "appearances": 1,
+      "appearances": 2,
       "started": 1,
-      "minutes": 81,
+      "minutes": 111,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "436537": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 63,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 153,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "411624": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "407993": {
-      "appearances": 1,
+      "appearances": 2,
       "started": 1,
       "minutes": 90,
       "goals": 0,
       "assists": 0,
-      "yellow_cards": 0,
+      "yellow_cards": 1,
       "red_cards": 0
     },
     "419291": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 150,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "339745": {
-      "appearances": 1,
-      "started": 1,
-      "minutes": 90,
+      "appearances": 2,
+      "started": 2,
+      "minutes": 180,
       "goals": 0,
       "assists": 0,
-      "yellow_cards": 0,
+      "yellow_cards": 1,
       "red_cards": 0
     },
     "403319": {
-      "appearances": 1,
-      "started": 0,
-      "minutes": 27,
+      "appearances": 2,
+      "started": 1,
+      "minutes": 117,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
@@ -4800,7 +4827,7 @@
       "red_cards": 0
     },
     "419302": {
-      "appearances": 1,
+      "appearances": 2,
       "started": 0,
       "minutes": 0,
       "goals": 0,
@@ -4809,15 +4836,24 @@
       "red_cards": 0
     },
     "523333": {
-      "appearances": 1,
+      "appearances": 2,
       "started": 0,
-      "minutes": 0,
+      "minutes": 30,
       "goals": 0,
       "assists": 0,
       "yellow_cards": 0,
       "red_cards": 0
     },
     "433439": {
+      "appearances": 2,
+      "started": 1,
+      "minutes": 90,
+      "goals": 0,
+      "assists": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    "419300": {
       "appearances": 1,
       "started": 0,
       "minutes": 0,
