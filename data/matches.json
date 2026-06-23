@@ -613,8 +613,8 @@
       "datetime": "2026-06-23T03:00:00Z",
       "stadium": "Estadio de la Bahía de San Francisco",
       "home_score": 1,
-      "away_score": 0,
-      "status": "live"
+      "away_score": 2,
+      "status": "played"
     },
     {
       "id": "POR-UZB",
@@ -1205,11 +1205,11 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-12",
+      "id": "ARG-TBD",
       "fifa_id": "400021521",
       "group": "",
       "stage": "Dieciseisavos de final",
-      "home": "TBD",
+      "home": "ARG",
       "away": "TBD",
       "date": "2026-07-03",
       "datetime": "2026-07-03T22:00:00Z",
@@ -1219,7 +1219,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-13",
+      "id": "TBD-TBD-12",
       "fifa_id": "400021517",
       "group": "",
       "stage": "Dieciseisavos de final",
@@ -1233,7 +1233,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-14",
+      "id": "TBD-TBD-13",
       "fifa_id": "400021530",
       "group": "",
       "stage": "Octavos de final",
@@ -1247,7 +1247,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-15",
+      "id": "TBD-TBD-14",
       "fifa_id": "400021533",
       "group": "",
       "stage": "Octavos de final",
@@ -1261,7 +1261,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-16",
+      "id": "TBD-TBD-15",
       "fifa_id": "400021532",
       "group": "",
       "stage": "Octavos de final",
@@ -1275,7 +1275,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-17",
+      "id": "TBD-TBD-16",
       "fifa_id": "400021531",
       "group": "",
       "stage": "Octavos de final",
@@ -1289,7 +1289,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-18",
+      "id": "TBD-TBD-17",
       "fifa_id": "400021529",
       "group": "",
       "stage": "Octavos de final",
@@ -1303,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-19",
+      "id": "TBD-TBD-18",
       "fifa_id": "400021534",
       "group": "",
       "stage": "Octavos de final",
@@ -1317,7 +1317,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-20",
+      "id": "TBD-TBD-19",
       "fifa_id": "400021528",
       "group": "",
       "stage": "Octavos de final",
@@ -1331,7 +1331,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-21",
+      "id": "TBD-TBD-20",
       "fifa_id": "400021535",
       "group": "",
       "stage": "Octavos de final",
@@ -1345,7 +1345,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-22",
+      "id": "TBD-TBD-21",
       "fifa_id": "400021536",
       "group": "",
       "stage": "Cuartos de final",
@@ -1359,7 +1359,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-23",
+      "id": "TBD-TBD-22",
       "fifa_id": "400021538",
       "group": "",
       "stage": "Cuartos de final",
@@ -1373,7 +1373,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-24",
+      "id": "TBD-TBD-23",
       "fifa_id": "400021539",
       "group": "",
       "stage": "Cuartos de final",
@@ -1387,7 +1387,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-25",
+      "id": "TBD-TBD-24",
       "fifa_id": "400021537",
       "group": "",
       "stage": "Cuartos de final",
@@ -1401,7 +1401,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-26",
+      "id": "TBD-TBD-25",
       "fifa_id": "400021541",
       "group": "",
       "stage": "Semifinal",
@@ -1415,7 +1415,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-27",
+      "id": "TBD-TBD-26",
       "fifa_id": "400021540",
       "group": "",
       "stage": "Semifinal",
@@ -1429,7 +1429,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-28",
+      "id": "TBD-TBD-27",
       "fifa_id": "400021542",
       "group": "",
       "stage": "Partido por el tercer puesto",
@@ -1443,7 +1443,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-29",
+      "id": "TBD-TBD-28",
       "fifa_id": "400021543",
       "group": "",
       "stage": "Final",
