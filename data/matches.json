@@ -850,9 +850,9 @@
       "date": "2026-06-26",
       "datetime": "2026-06-26T19:00:00Z",
       "stadium": "Estadio Boston",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 1,
+      "away_score": 4,
+      "status": "played"
     },
     {
       "id": "SEN-IRQ",
@@ -864,9 +864,9 @@
       "date": "2026-06-26",
       "datetime": "2026-06-26T19:00:00Z",
       "stadium": "Estadio de Toronto",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 5,
+      "away_score": 0,
+      "status": "played"
     },
     {
       "id": "CPV-KSA",
@@ -1065,12 +1065,12 @@
       "status": "upcoming"
     },
     {
-      "id": "CIV-TBD",
+      "id": "CIV-NOR",
       "fifa_id": "400021514",
       "group": "",
       "stage": "Dieciseisavos de final",
       "home": "CIV",
-      "away": "TBD",
+      "away": "NOR",
       "date": "2026-06-30",
       "datetime": "2026-06-30T17:00:00Z",
       "stadium": "Estadio Dallas",
@@ -1079,11 +1079,11 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD",
+      "id": "FRA-TBD",
       "fifa_id": "400021523",
       "group": "",
       "stage": "Dieciseisavos de final",
-      "home": "TBD",
+      "home": "FRA",
       "away": "TBD",
       "date": "2026-06-30",
       "datetime": "2026-06-30T21:00:00Z",
@@ -1107,7 +1107,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-2",
+      "id": "TBD-TBD",
       "fifa_id": "400021512",
       "group": "",
       "stage": "Dieciseisavos de final",
@@ -1121,7 +1121,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-3",
+      "id": "TBD-TBD-2",
       "fifa_id": "400021525",
       "group": "",
       "stage": "Dieciseisavos de final",
@@ -1149,7 +1149,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-4",
+      "id": "TBD-TBD-3",
       "fifa_id": "400021519",
       "group": "",
       "stage": "Dieciseisavos de final",
@@ -1163,7 +1163,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-5",
+      "id": "TBD-TBD-4",
       "fifa_id": "400021526",
       "group": "",
       "stage": "Dieciseisavos de final",
@@ -1219,7 +1219,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-6",
+      "id": "TBD-TBD-5",
       "fifa_id": "400021517",
       "group": "",
       "stage": "Dieciseisavos de final",
@@ -1233,7 +1233,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-7",
+      "id": "TBD-TBD-6",
       "fifa_id": "400021530",
       "group": "",
       "stage": "Octavos de final",
@@ -1247,7 +1247,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-8",
+      "id": "TBD-TBD-7",
       "fifa_id": "400021533",
       "group": "",
       "stage": "Octavos de final",
@@ -1261,7 +1261,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-9",
+      "id": "TBD-TBD-8",
       "fifa_id": "400021532",
       "group": "",
       "stage": "Octavos de final",
@@ -1275,7 +1275,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-10",
+      "id": "TBD-TBD-9",
       "fifa_id": "400021531",
       "group": "",
       "stage": "Octavos de final",
@@ -1289,7 +1289,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-11",
+      "id": "TBD-TBD-10",
       "fifa_id": "400021529",
       "group": "",
       "stage": "Octavos de final",
@@ -1303,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-12",
+      "id": "TBD-TBD-11",
       "fifa_id": "400021534",
       "group": "",
       "stage": "Octavos de final",
@@ -1317,7 +1317,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-13",
+      "id": "TBD-TBD-12",
       "fifa_id": "400021528",
       "group": "",
       "stage": "Octavos de final",
@@ -1331,7 +1331,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-14",
+      "id": "TBD-TBD-13",
       "fifa_id": "400021535",
       "group": "",
       "stage": "Octavos de final",
@@ -1345,7 +1345,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-15",
+      "id": "TBD-TBD-14",
       "fifa_id": "400021536",
       "group": "",
       "stage": "Cuartos de final",
@@ -1359,7 +1359,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-16",
+      "id": "TBD-TBD-15",
       "fifa_id": "400021538",
       "group": "",
       "stage": "Cuartos de final",
@@ -1373,7 +1373,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-17",
+      "id": "TBD-TBD-16",
       "fifa_id": "400021539",
       "group": "",
       "stage": "Cuartos de final",
@@ -1387,7 +1387,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-18",
+      "id": "TBD-TBD-17",
       "fifa_id": "400021537",
       "group": "",
       "stage": "Cuartos de final",
@@ -1401,7 +1401,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-19",
+      "id": "TBD-TBD-18",
       "fifa_id": "400021541",
       "group": "",
       "stage": "Semifinal",
@@ -1415,7 +1415,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-20",
+      "id": "TBD-TBD-19",
       "fifa_id": "400021540",
       "group": "",
       "stage": "Semifinal",
@@ -1429,7 +1429,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-21",
+      "id": "TBD-TBD-20",
       "fifa_id": "400021542",
       "group": "",
       "stage": "Partido por el tercer puesto",
@@ -1443,7 +1443,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-22",
+      "id": "TBD-TBD-21",
       "fifa_id": "400021543",
       "group": "",
       "stage": "Final",
