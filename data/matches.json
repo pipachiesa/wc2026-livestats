@@ -1032,9 +1032,9 @@
       "date": "2026-06-29",
       "datetime": "2026-06-29T17:00:00Z",
       "stadium": "Estadio Houston",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 2,
+      "away_score": 1,
+      "status": "played"
     },
     {
       "id": "GER-PAR",
@@ -1261,11 +1261,11 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-2",
+      "id": "BRA-TBD",
       "fifa_id": "400021532",
       "group": "",
       "stage": "Octavos de final",
-      "home": "TBD",
+      "home": "BRA",
       "away": "TBD",
       "date": "2026-07-05",
       "datetime": "2026-07-05T20:00:00Z",
@@ -1275,7 +1275,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-3",
+      "id": "TBD-TBD-2",
       "fifa_id": "400021531",
       "group": "",
       "stage": "Octavos de final",
@@ -1289,7 +1289,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-4",
+      "id": "TBD-TBD-3",
       "fifa_id": "400021529",
       "group": "",
       "stage": "Octavos de final",
@@ -1303,7 +1303,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-5",
+      "id": "TBD-TBD-4",
       "fifa_id": "400021534",
       "group": "",
       "stage": "Octavos de final",
@@ -1317,7 +1317,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-6",
+      "id": "TBD-TBD-5",
       "fifa_id": "400021528",
       "group": "",
       "stage": "Octavos de final",
@@ -1331,7 +1331,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-7",
+      "id": "TBD-TBD-6",
       "fifa_id": "400021535",
       "group": "",
       "stage": "Octavos de final",
@@ -1345,7 +1345,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-8",
+      "id": "TBD-TBD-7",
       "fifa_id": "400021536",
       "group": "",
       "stage": "Cuartos de final",
@@ -1359,7 +1359,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-9",
+      "id": "TBD-TBD-8",
       "fifa_id": "400021538",
       "group": "",
       "stage": "Cuartos de final",
@@ -1373,7 +1373,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-10",
+      "id": "TBD-TBD-9",
       "fifa_id": "400021539",
       "group": "",
       "stage": "Cuartos de final",
@@ -1387,7 +1387,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-11",
+      "id": "TBD-TBD-10",
       "fifa_id": "400021537",
       "group": "",
       "stage": "Cuartos de final",
@@ -1401,7 +1401,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-12",
+      "id": "TBD-TBD-11",
       "fifa_id": "400021541",
       "group": "",
       "stage": "Semifinal",
@@ -1415,7 +1415,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-13",
+      "id": "TBD-TBD-12",
       "fifa_id": "400021540",
       "group": "",
       "stage": "Semifinal",
@@ -1429,7 +1429,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-14",
+      "id": "TBD-TBD-13",
       "fifa_id": "400021542",
       "group": "",
       "stage": "Partido por el tercer puesto",
@@ -1443,7 +1443,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-15",
+      "id": "TBD-TBD-14",
       "fifa_id": "400021543",
       "group": "",
       "stage": "Final",
