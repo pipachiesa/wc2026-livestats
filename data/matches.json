@@ -1088,9 +1088,9 @@
       "date": "2026-06-30",
       "datetime": "2026-06-30T21:00:00Z",
       "stadium": "Estadio Nueva York/Nueva Jersey",
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 0,
-      "status": "live"
+      "status": "played"
     },
     {
       "id": "MEX-ECU",
@@ -1247,12 +1247,12 @@
       "status": "upcoming"
     },
     {
-      "id": "PAR-TBD",
+      "id": "PAR-FRA",
       "fifa_id": "400021533",
       "group": "",
       "stage": "Octavos de final",
       "home": "PAR",
-      "away": "TBD",
+      "away": "FRA",
       "date": "2026-07-04",
       "datetime": "2026-07-04T21:00:00Z",
       "stadium": "Estadio Filadelfia",
