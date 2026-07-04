@@ -1214,9 +1214,9 @@
       "date": "2026-07-03",
       "datetime": "2026-07-03T22:00:00Z",
       "stadium": "Estadio Miami",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 3,
+      "away_score": 2,
+      "status": "played"
     },
     {
       "id": "COL-GHA",
@@ -1317,11 +1317,11 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-EGY",
+      "id": "ARG-EGY",
       "fifa_id": "400021528",
       "group": "",
       "stage": "Octavos de final",
-      "home": "TBD",
+      "home": "ARG",
       "away": "EGY",
       "date": "2026-07-07",
       "datetime": "2026-07-07T16:00:00Z",
