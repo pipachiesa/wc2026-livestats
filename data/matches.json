@@ -1256,9 +1256,9 @@
       "date": "2026-07-04",
       "datetime": "2026-07-04T21:00:00Z",
       "stadium": "Estadio Filadelfia",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 0,
+      "away_score": 1,
+      "status": "played"
     },
     {
       "id": "BRA-NOR",
@@ -1345,11 +1345,11 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-MAR",
+      "id": "FRA-MAR",
       "fifa_id": "400021536",
       "group": "",
       "stage": "Cuartos de final",
-      "home": "TBD",
+      "home": "FRA",
       "away": "MAR",
       "date": "2026-07-09",
       "datetime": "2026-07-09T20:00:00Z",
