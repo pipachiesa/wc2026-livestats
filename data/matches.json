@@ -1282,11 +1282,11 @@
       "home": "MEX",
       "away": "ENG",
       "date": "2026-07-06",
-      "datetime": "2026-07-06T00:00:00Z",
+      "datetime": "2026-07-06T01:00:00Z",
       "stadium": "Estadio Ciudad de México",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 2,
+      "away_score": 3,
+      "status": "played"
     },
     {
       "id": "POR-ESP",
@@ -1373,12 +1373,12 @@
       "status": "upcoming"
     },
     {
-      "id": "NOR-TBD",
+      "id": "NOR-ENG",
       "fifa_id": "400021539",
       "group": "",
       "stage": "Cuartos de final",
       "home": "NOR",
-      "away": "TBD",
+      "away": "ENG",
       "date": "2026-07-11",
       "datetime": "2026-07-11T21:00:00Z",
       "stadium": "Estadio Miami",
