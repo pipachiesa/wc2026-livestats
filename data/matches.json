@@ -1298,9 +1298,9 @@
       "date": "2026-07-06",
       "datetime": "2026-07-06T19:00:00Z",
       "stadium": "Estadio Dallas",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 0,
+      "away_score": 1,
+      "status": "played"
     },
     {
       "id": "USA-BEL",
@@ -1359,11 +1359,11 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD",
+      "id": "ESP-TBD",
       "fifa_id": "400021538",
       "group": "",
       "stage": "Cuartos de final",
-      "home": "TBD",
+      "home": "ESP",
       "away": "TBD",
       "date": "2026-07-10",
       "datetime": "2026-07-10T19:00:00Z",
@@ -1387,7 +1387,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-2",
+      "id": "TBD-TBD",
       "fifa_id": "400021537",
       "group": "",
       "stage": "Cuartos de final",
@@ -1401,7 +1401,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-3",
+      "id": "TBD-TBD-2",
       "fifa_id": "400021541",
       "group": "",
       "stage": "Semifinal",
@@ -1415,7 +1415,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-4",
+      "id": "TBD-TBD-3",
       "fifa_id": "400021540",
       "group": "",
       "stage": "Semifinal",
@@ -1429,7 +1429,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-5",
+      "id": "TBD-TBD-4",
       "fifa_id": "400021542",
       "group": "",
       "stage": "Partido por el tercer puesto",
@@ -1443,7 +1443,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-6",
+      "id": "TBD-TBD-5",
       "fifa_id": "400021543",
       "group": "",
       "stage": "Final",
