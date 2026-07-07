@@ -1312,9 +1312,9 @@
       "date": "2026-07-07",
       "datetime": "2026-07-07T00:00:00Z",
       "stadium": "Estadio de Seattle",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 1,
+      "away_score": 4,
+      "status": "played"
     },
     {
       "id": "ARG-EGY",
@@ -1359,12 +1359,12 @@
       "status": "upcoming"
     },
     {
-      "id": "ESP-TBD",
+      "id": "ESP-BEL",
       "fifa_id": "400021538",
       "group": "",
       "stage": "Cuartos de final",
       "home": "ESP",
-      "away": "TBD",
+      "away": "BEL",
       "date": "2026-07-10",
       "datetime": "2026-07-10T19:00:00Z",
       "stadium": "Estadio Los Angeles",
