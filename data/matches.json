@@ -1326,9 +1326,9 @@
       "date": "2026-07-07",
       "datetime": "2026-07-07T16:00:00Z",
       "stadium": "Estadio Atlanta",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 3,
+      "away_score": 2,
+      "status": "played"
     },
     {
       "id": "SUI-COL",
@@ -1387,11 +1387,11 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD",
+      "id": "ARG-TBD",
       "fifa_id": "400021537",
       "group": "",
       "stage": "Cuartos de final",
-      "home": "TBD",
+      "home": "ARG",
       "away": "TBD",
       "date": "2026-07-12",
       "datetime": "2026-07-12T01:00:00Z",
@@ -1401,7 +1401,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-2",
+      "id": "TBD-TBD",
       "fifa_id": "400021541",
       "group": "",
       "stage": "Semifinal",
@@ -1415,7 +1415,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-3",
+      "id": "TBD-TBD-2",
       "fifa_id": "400021540",
       "group": "",
       "stage": "Semifinal",
@@ -1429,7 +1429,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-4",
+      "id": "TBD-TBD-3",
       "fifa_id": "400021542",
       "group": "",
       "stage": "Partido por el tercer puesto",
@@ -1443,7 +1443,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-5",
+      "id": "TBD-TBD-4",
       "fifa_id": "400021543",
       "group": "",
       "stage": "Final",

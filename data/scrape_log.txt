@@ -4752,3 +4752,107 @@
 [2026-07-07T04:15:42+00:00] ===== scrape_wc_stats.py END · 77.2s =====
 
 [2026-07-07T04:15:42+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 856 KB embebidos · last_update=2026-07-07 04:15
+[2026-07-07T19:39:33+00:00] ===== scrape_wc_stats.py START =====
+[2026-07-07T19:39:34+00:00]   match upd ARG-EGY: None-None(upcoming) -> 3-2(played)
+[2026-07-07T19:39:34+00:00]   match upd ARG-TBD: None-None(upcoming) -> None-None(upcoming)
+[2026-07-07T19:39:34+00:00] matches.json: 104 partidos · 0 nuevos · 2 actualizados
+[2026-07-07T19:39:34+00:00]   WC stats agregadas: MEX-RSA (MEX-RSA)
+[2026-07-07T19:39:35+00:00]   WC stats agregadas: KOR-CZE (KOR-CZE)
+[2026-07-07T19:39:36+00:00]   WC stats agregadas: CAN-BIH (CAN-BIH)
+[2026-07-07T19:39:37+00:00]   WC stats agregadas: USA-PAR (USA-PAR)
+[2026-07-07T19:39:38+00:00]   WC stats agregadas: QAT-SUI (QAT-SUI)
+[2026-07-07T19:39:38+00:00]   WC stats agregadas: BRA-MAR (BRA-MAR)
+[2026-07-07T19:39:39+00:00]   WC stats agregadas: HAI-SCO (HAI-SCO)
+[2026-07-07T19:39:40+00:00]   WC stats agregadas: AUS-TUR (AUS-TUR)
+[2026-07-07T19:39:41+00:00]   WC stats agregadas: GER-CUW (GER-CUW)
+[2026-07-07T19:39:42+00:00]   WC stats agregadas: NED-JPN (NED-JPN)
+[2026-07-07T19:39:43+00:00]   WC stats agregadas: CIV-ECU (CIV-ECU)
+[2026-07-07T19:39:44+00:00]   WC stats agregadas: SWE-TUN (SWE-TUN)
+[2026-07-07T19:39:45+00:00]   WC stats agregadas: ESP-CPV (ESP-CPV)
+[2026-07-07T19:39:46+00:00]   WC stats agregadas: BEL-EGY (BEL-EGY)
+[2026-07-07T19:39:46+00:00]   WC stats agregadas: KSA-URU (KSA-URU)
+[2026-07-07T19:39:47+00:00]   WC stats agregadas: IRN-NZL (IRN-NZL)
+[2026-07-07T19:39:48+00:00]   WC stats agregadas: FRA-SEN (FRA-SEN)
+[2026-07-07T19:39:49+00:00]   WC stats agregadas: IRQ-NOR (IRQ-NOR)
+[2026-07-07T19:39:50+00:00]   WC stats agregadas: ARG-ALG (ARG-ALG)
+[2026-07-07T19:39:51+00:00]   WC stats agregadas: AUT-JOR (AUT-JOR)
+[2026-07-07T19:39:52+00:00]   WC stats agregadas: POR-COD (POR-COD)
+[2026-07-07T19:39:53+00:00]   WC stats agregadas: ENG-CRO (ENG-CRO)
+[2026-07-07T19:39:54+00:00]   WC stats agregadas: GHA-PAN (GHA-PAN)
+[2026-07-07T19:39:55+00:00]   WC stats agregadas: UZB-COL (UZB-COL)
+[2026-07-07T19:39:56+00:00]   WC stats agregadas: CZE-RSA (CZE-RSA)
+[2026-07-07T19:39:57+00:00]   WC stats agregadas: SUI-BIH (SUI-BIH)
+[2026-07-07T19:39:58+00:00]   WC stats agregadas: CAN-QAT (CAN-QAT)
+[2026-07-07T19:39:58+00:00]   WC stats agregadas: MEX-KOR (MEX-KOR)
+[2026-07-07T19:39:59+00:00]   WC stats agregadas: USA-AUS (USA-AUS)
+[2026-07-07T19:40:00+00:00]   WC stats agregadas: SCO-MAR (SCO-MAR)
+[2026-07-07T19:40:01+00:00]   WC stats agregadas: BRA-HAI (BRA-HAI)
+[2026-07-07T19:40:02+00:00]   WC stats agregadas: TUR-PAR (TUR-PAR)
+[2026-07-07T19:40:03+00:00]   WC stats agregadas: NED-SWE (NED-SWE)
+[2026-07-07T19:40:04+00:00]   WC stats agregadas: GER-CIV (GER-CIV)
+[2026-07-07T19:40:05+00:00]   WC stats agregadas: ECU-CUW (ECU-CUW)
+[2026-07-07T19:40:06+00:00]   WC stats agregadas: TUN-JPN (TUN-JPN)
+[2026-07-07T19:40:06+00:00]   WC stats agregadas: ESP-KSA (ESP-KSA)
+[2026-07-07T19:40:07+00:00]   WC stats agregadas: BEL-IRN (BEL-IRN)
+[2026-07-07T19:40:08+00:00]   WC stats agregadas: URU-CPV (URU-CPV)
+[2026-07-07T19:40:09+00:00]   WC stats agregadas: NZL-EGY (NZL-EGY)
+[2026-07-07T19:40:10+00:00]   WC stats agregadas: ARG-AUT (ARG-AUT)
+[2026-07-07T19:40:11+00:00]   WC stats agregadas: FRA-IRQ (FRA-IRQ)
+[2026-07-07T19:40:12+00:00]   WC stats agregadas: NOR-SEN (NOR-SEN)
+[2026-07-07T19:40:12+00:00]   WC stats agregadas: JOR-ALG (JOR-ALG)
+[2026-07-07T19:40:13+00:00]   WC stats agregadas: POR-UZB (POR-UZB)
+[2026-07-07T19:40:14+00:00]   WC stats agregadas: ENG-GHA (ENG-GHA)
+[2026-07-07T19:40:15+00:00]   WC stats agregadas: PAN-CRO (PAN-CRO)
+[2026-07-07T19:40:16+00:00]   WC stats agregadas: COL-COD (COL-COD)
+[2026-07-07T19:40:17+00:00]   WC stats agregadas: BIH-QAT (BIH-QAT)
+[2026-07-07T19:40:18+00:00]   WC stats agregadas: SUI-CAN (SUI-CAN)
+[2026-07-07T19:40:19+00:00]   WC stats agregadas: MAR-HAI (MAR-HAI)
+[2026-07-07T19:40:19+00:00]   WC stats agregadas: SCO-BRA (SCO-BRA)
+[2026-07-07T19:40:20+00:00]   WC stats agregadas: CZE-MEX (CZE-MEX)
+[2026-07-07T19:40:21+00:00]   WC stats agregadas: RSA-KOR (RSA-KOR)
+[2026-07-07T19:40:22+00:00]   WC stats agregadas: CUW-CIV (CUW-CIV)
+[2026-07-07T19:40:23+00:00]   WC stats agregadas: ECU-GER (ECU-GER)
+[2026-07-07T19:40:24+00:00]   WC stats agregadas: JPN-SWE (JPN-SWE)
+[2026-07-07T19:40:25+00:00]   WC stats agregadas: TUN-NED (TUN-NED)
+[2026-07-07T19:40:26+00:00]   WC stats agregadas: PAR-AUS (PAR-AUS)
+[2026-07-07T19:40:27+00:00]   WC stats agregadas: TUR-USA (TUR-USA)
+[2026-07-07T19:40:28+00:00]   WC stats agregadas: NOR-FRA (NOR-FRA)
+[2026-07-07T19:40:28+00:00]   WC stats agregadas: SEN-IRQ (SEN-IRQ)
+[2026-07-07T19:40:29+00:00]   WC stats agregadas: CPV-KSA (CPV-KSA)
+[2026-07-07T19:40:30+00:00]   WC stats agregadas: URU-ESP (URU-ESP)
+[2026-07-07T19:40:32+00:00]   WC stats agregadas: EGY-IRN (EGY-IRN)
+[2026-07-07T19:40:33+00:00]   WC stats agregadas: NZL-BEL (NZL-BEL)
+[2026-07-07T19:40:35+00:00]   WC stats agregadas: CRO-GHA (CRO-GHA)
+[2026-07-07T19:40:35+00:00]   WC stats agregadas: PAN-ENG (PAN-ENG)
+[2026-07-07T19:40:36+00:00]   WC stats agregadas: COD-UZB (COD-UZB)
+[2026-07-07T19:40:37+00:00]   WC stats agregadas: COL-POR (COL-POR)
+[2026-07-07T19:40:38+00:00]   WC stats agregadas: ALG-AUT (ALG-AUT)
+[2026-07-07T19:40:39+00:00]   WC stats agregadas: JOR-ARG (JOR-ARG)
+[2026-07-07T19:40:40+00:00]   ! no se pudo agregar RSA-CAN: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:40+00:00]   ! no se pudo agregar BRA-JPN: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:41+00:00]   ! no se pudo agregar GER-PAR: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:41+00:00]   ! no se pudo agregar NED-MAR: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:42+00:00]   ! no se pudo agregar CIV-NOR: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:42+00:00]   ! no se pudo agregar FRA-SWE: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:42+00:00]   ! no se pudo agregar MEX-ECU: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:43+00:00]   ! no se pudo agregar ENG-COD: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:44+00:00]   ! no se pudo agregar BEL-SEN: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:44+00:00]   ! no se pudo agregar USA-BIH: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:45+00:00]   ! no se pudo agregar ESP-AUT: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:46+00:00]   ! no se pudo agregar POR-CRO: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:46+00:00]   ! no se pudo agregar SUI-ALG: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:47+00:00]   ! no se pudo agregar AUS-EGY: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:47+00:00]   ! no se pudo agregar ARG-CPV: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:48+00:00]   ! no se pudo agregar COL-GHA: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:48+00:00]   ! no se pudo agregar CAN-MAR: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:48+00:00]   ! no se pudo agregar PAR-FRA: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:49+00:00]   ! no se pudo agregar BRA-NOR: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:49+00:00]   ! no se pudo agregar MEX-ENG: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:49+00:00]   ! no se pudo agregar POR-ESP: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:50+00:00]   ! no se pudo agregar USA-BEL: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:50+00:00]   ! no se pudo agregar ARG-EGY: 'NoneType' object has no attribute 'get'
+[2026-07-07T19:40:50+00:00] player_stats_wc.json: 48 equipos · 999 jugadores con datos WC
+[2026-07-07T19:40:50+00:00] player_stats_season.json: 48 equipos · 1222 jugadores (seed desde index.html · fuente real futura: FBref)
+[2026-07-07T19:40:50+00:00] ===== scrape_wc_stats.py END · 76.9s =====
+
+[2026-07-07T19:40:50+00:00] embed_data: 48 equipos / 1248 jugadores, 104 partidos, 856 KB embebidos · last_update=2026-07-07 19:40
