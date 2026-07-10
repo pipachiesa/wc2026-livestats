@@ -1368,9 +1368,9 @@
       "date": "2026-07-10",
       "datetime": "2026-07-10T19:00:00Z",
       "stadium": "Estadio Los Angeles",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 2,
+      "away_score": 1,
+      "status": "played"
     },
     {
       "id": "NOR-ENG",
@@ -1401,12 +1401,12 @@
       "status": "upcoming"
     },
     {
-      "id": "FRA-TBD",
+      "id": "FRA-ESP",
       "fifa_id": "400021541",
       "group": "",
       "stage": "Semifinal",
       "home": "FRA",
-      "away": "TBD",
+      "away": "ESP",
       "date": "2026-07-14",
       "datetime": "2026-07-14T19:00:00Z",
       "stadium": "Estadio Dallas",
