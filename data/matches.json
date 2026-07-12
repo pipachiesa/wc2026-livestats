@@ -1382,9 +1382,9 @@
       "date": "2026-07-11",
       "datetime": "2026-07-11T21:00:00Z",
       "stadium": "Estadio Miami",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 1,
+      "away_score": 2,
+      "status": "played"
     },
     {
       "id": "ARG-SUI",
@@ -1415,11 +1415,11 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD",
+      "id": "ENG-TBD",
       "fifa_id": "400021540",
       "group": "",
       "stage": "Semifinal",
-      "home": "TBD",
+      "home": "ENG",
       "away": "TBD",
       "date": "2026-07-15",
       "datetime": "2026-07-15T19:00:00Z",
@@ -1429,7 +1429,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-2",
+      "id": "TBD-TBD",
       "fifa_id": "400021542",
       "group": "",
       "stage": "Partido por el tercer puesto",
@@ -1443,7 +1443,7 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-3",
+      "id": "TBD-TBD-2",
       "fifa_id": "400021543",
       "group": "",
       "stage": "Final",
