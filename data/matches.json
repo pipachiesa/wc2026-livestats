@@ -1410,9 +1410,9 @@
       "date": "2026-07-14",
       "datetime": "2026-07-14T19:00:00Z",
       "stadium": "Estadio Dallas",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 0,
+      "away_score": 2,
+      "status": "played"
     },
     {
       "id": "ENG-ARG",
@@ -1429,11 +1429,11 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD",
+      "id": "FRA-TBD",
       "fifa_id": "400021542",
       "group": "",
-      "stage": "Partido por el tercer puesto",
-      "home": "TBD",
+      "stage": "Bronze final",
+      "home": "FRA",
       "away": "TBD",
       "date": "2026-07-18",
       "datetime": "2026-07-18T21:00:00Z",
@@ -1443,11 +1443,11 @@
       "status": "upcoming"
     },
     {
-      "id": "TBD-TBD-2",
+      "id": "ESP-TBD",
       "fifa_id": "400021543",
       "group": "",
       "stage": "Final",
-      "home": "TBD",
+      "home": "ESP",
       "away": "TBD",
       "date": "2026-07-19",
       "datetime": "2026-07-19T19:00:00Z",
