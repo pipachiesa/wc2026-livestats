@@ -1424,17 +1424,17 @@
       "date": "2026-07-15",
       "datetime": "2026-07-15T19:00:00Z",
       "stadium": "Estadio Atlanta",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 1,
+      "away_score": 2,
+      "status": "played"
     },
     {
-      "id": "FRA-TBD",
+      "id": "FRA-ENG",
       "fifa_id": "400021542",
       "group": "",
       "stage": "Bronze final",
       "home": "FRA",
-      "away": "TBD",
+      "away": "ENG",
       "date": "2026-07-18",
       "datetime": "2026-07-18T21:00:00Z",
       "stadium": "Estadio Miami",
@@ -1443,12 +1443,12 @@
       "status": "upcoming"
     },
     {
-      "id": "ESP-TBD",
+      "id": "ESP-ARG",
       "fifa_id": "400021543",
       "group": "",
       "stage": "Final",
       "home": "ESP",
-      "away": "TBD",
+      "away": "ARG",
       "date": "2026-07-19",
       "datetime": "2026-07-19T19:00:00Z",
       "stadium": "Estadio Nueva York/Nueva Jersey",
