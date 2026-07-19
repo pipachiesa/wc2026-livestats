@@ -1438,9 +1438,9 @@
       "date": "2026-07-18",
       "datetime": "2026-07-18T21:00:00Z",
       "stadium": "Estadio Miami",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming"
+      "home_score": 4,
+      "away_score": 6,
+      "status": "played"
     },
     {
       "id": "ESP-ARG",
